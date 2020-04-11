@@ -1,6 +1,6 @@
 # Awesome Testing Courses & Tutorials [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![]()
+![](https://github.com/upgundecha/awesome-testing-courses/blob/master/undraw_online_video_ivvq.png)
 
 > A curated list of awesome online courses & tutorials on software testing, test automation and more...
 
