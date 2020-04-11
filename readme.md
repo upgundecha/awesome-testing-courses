@@ -2,8 +2,10 @@
 
 > A curated list of awesome online courses on software testing, test automation and more...
 
-<details>
-    <summary>Blazemeter University (Free Courses)</summary>
+<details open>
+    <summary>Blazemeter University</summary>
+
+## Blazemeter University - Free Courses
 
 - [JMeter™ Intro](https://university.blazemeter.com/)
 - [JMeter™ Pro](https://university.blazemeter.com/)
@@ -14,16 +16,20 @@
 
 </details>
 
-<details>
-    <summary>Cucumber School (Free Courses)</summary>
+<details open>
+    <summary>Cucumber School</summary>
+
+## Cucumber School - Free Courses
 
 - [BDD with Cucumber (Java)](https://school.cucumber.io/courses/bdd-with-cucumber-java)
 - [BDD with Cucumber (JavaScript)](https://school.cucumber.io/courses/bdd-with-cucumber-javascript)
 - [BDD with Cucumber (Ruby)](https://school.cucumber.io/courses/bdd-with-cucumber-ruby)
 </details>
 
-<details>
-    <summary>LinkedIn Learning (Paid subscription)</summary>
+<details open>
+    <summary>LinkedIn Learning </summary>
+
+## LinkedIn Learning - Paid subscription
 
 ### Software Testing
 
@@ -132,8 +138,10 @@
 
 </details>
 
-<details>
-    <summary>Pluralsight (Paid Subscription)</summary>
+<details open>
+    <summary>Pluralsight</summary>
+
+## Pluralsight - Paid Subscription
 
 ### Software Testing & Test Automation
 - [Automated Testing: End to End](https://www.pluralsight.com/courses/automated-testing-end-to-end)
@@ -371,9 +379,11 @@
 - [JMeter: Getting Started](https://www.pluralsight.com/courses/jmeter-getting-started)
 - [Tracking Real World Web Performance](https://www.pluralsight.com/courses/web-performance-tracking)
 
-</details>
+</details open>
 <details>
-    <summary>Test Automation University (Free Course) </summary>
+    <summary>Test Automation University</summary>
+
+## Test Automation University - Free Course
 
 ### Test Automation
 - [Setting a Foundation for Successful Test Automation](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/index.html)
