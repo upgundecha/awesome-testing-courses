@@ -1,6 +1,6 @@
 # Awesome Testing Courses [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A cureated list of awesome online testing courses
+> A cureated list of awesome online courses on software testing, test automation and more...
 
 <details>
     <summary>Blazemeter University (Free Courses)</summary>
