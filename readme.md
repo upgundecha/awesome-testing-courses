@@ -2,18 +2,8 @@
 
 > A cureated list of awesome online testing courses
 
-
-## Contents
-
-- [Blazemeter University](#blazemeter-university)
-- [Cucumber School](#cucumber-school)
-- [LinkedIn Learning](#linkedin-learning)
-- [Pluralsight](#pluralsight)
-- [TestAutomationU](#test-automation-university)
-
-## Blazemeter University
-
-Free courses
+<details>
+    <summary>Blazemeter University (Free Courses)</summary>
 
 - [JMeter™ Intro](https://university.blazemeter.com/)
 - [JMeter™ Pro](https://university.blazemeter.com/)
@@ -22,18 +12,18 @@ Free courses
 - [BlazeMeter Infrastructure Management](https://university.blazemeter.com/)
 - [Introduction to BlazeMeter Mock Services](https://university.blazemeter.com/)
 
-## Cucumber School
+</details>
 
-Free courses
+<details>
+    <summary>Cucumber School (Free Courses)</summary>
 
 - [BDD with Cucumber (Java)](https://school.cucumber.io/courses/bdd-with-cucumber-java)
 - [BDD with Cucumber (JavaScript)](https://school.cucumber.io/courses/bdd-with-cucumber-javascript)
 - [BDD with Cucumber (Ruby)](https://school.cucumber.io/courses/bdd-with-cucumber-ruby)
+</details>
 
-
-## LinkedIn Learning
-
-Paid subscription
+<details>
+    <summary>LinkedIn Learning (Paid subscription)</summary>
 
 ### Software Testing
 
@@ -120,6 +110,13 @@ Paid subscription
 - [Ruby: Testing with RSpec](https://www.linkedin.com/learning/ruby-testing-with-rspec/welcome)
 - [Effective Android Testing for Mobile Developers](https://www.linkedin.com/learning/effective-android-testing-for-mobile-developers)
 
+### BDD
+- [Behavior-Driven Development](https://www.linkedin.com/learning/behavior-driven-development)
+- [Cucumber Essential Training](https://www.linkedin.com/learning/cucumber-essential-training)
+
+### Others
+- [UX Foundations: Usability Testing](https://www.linkedin.com/learning/ux-foundations-usability-testing)
+
 ### Security Testing
 - [DevSecOps: Automated Security Testing](https://www.linkedin.com/learning/devsecops-automated-security-testing)
 - [Security Testing: Vulnerability Management with Nessus](https://www.linkedin.com/learning/security-testing-vulnerability-management-with-nessus/managing-vulnerabilities-with-nessus)
@@ -133,16 +130,10 @@ Paid subscription
 - [Penetration Testing: Advanced Enumeration](https://www.linkedin.com/learning/penetration-testing-advanced-enumeration)
 - [Penetration Testing Essential Training](https://www.linkedin.com/learning/penetration-testing-essential-training)
 
-### BDD
-- [Behavior-Driven Development](https://www.linkedin.com/learning/behavior-driven-development)
-- [Cucumber Essential Training](https://www.linkedin.com/learning/cucumber-essential-training)
+</details>
 
-### Others
-- [UX Foundations: Usability Testing](https://www.linkedin.com/learning/ux-foundations-usability-testing)
-
-## Pluralsight
-
-Paid subscription
+<details>
+    <summary>Pluralsight (Paid Subscription)</summary>
 
 ### Software Testing & Test Automation
 - [Automated Testing: End to End](https://www.pluralsight.com/courses/automated-testing-end-to-end)
@@ -155,7 +146,6 @@ Paid subscription
 - [Testing Automation: The Big Picture](https://www.pluralsight.com/courses/testing-automation-big-picture)
 - [Coding Dojo: Test Driven Development](https://www.pluralsight.com/courses/the-coding-dojo)
 - [Improving Testability Through Design](https://www.pluralsight.com/courses/improving-testability-through-design)
-
 
 ### Unit Testing
 - [Advanced Unit Testing](https://www.pluralsight.com/courses/advanced-unit-testing)
@@ -317,7 +307,6 @@ Paid subscription
 - [Web Accessibility: Getting Started](https://www.pluralsight.com/courses/web-accessibility-getting-started)
 - [Code Testability](https://www.pluralsight.com/courses/code-testability)
 
-
 ### Security Testing
 - [Penetration Testing: The Big Picture](https://www.pluralsight.com/courses/penetration-testing-big-picture)
 - [Penetration Testing in Action](https://www.pluralsight.com/courses/penetration-testing-action)
@@ -382,9 +371,9 @@ Paid subscription
 - [JMeter: Getting Started](https://www.pluralsight.com/courses/jmeter-getting-started)
 - [Tracking Real World Web Performance](https://www.pluralsight.com/courses/web-performance-tracking)
 
-## Test Automation University 
-
-Free courses
+</details>
+<details>
+    <summary>Test Automation University (Free Course) </summary>
 
 ### Test Automation
 - [Setting a Foundation for Successful Test Automation](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/index.html)
@@ -393,13 +382,12 @@ Free courses
 - [Testing From The Inside: Unit Testing Edition](https://testautomationu.applitools.com/unit-testing/index.html)
 - [The Whole Team Approach to Continuous Testing](https://testautomationu.applitools.com/the-whole-team-approach-to-continuous-testing/chapter5.html)
 
-
 ### API Testing
 - [Exploring Service APIs through Test Automation](https://testautomationu.applitools.com/exploring-service-apis-through-test-automation/chapter3.1.html)
 - [Automating your API tests with REST Assured](https://testautomationu.applitools.com/automating-your-api-tests-with-rest-assured/index.html)
 
-
 ### Selenium
+
 #### Java
 - [Selenium WebDriver with Java](https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/index.html)
 
@@ -446,6 +434,8 @@ Free courses
 - [AI for Element Selection: Erasing the Pain of Fragile Test Scripts](https://testautomationu.applitools.com/ai-for-element-selection-erasing-the-pain-of-fragile-test-scripts/index.html)
 - [Scaling Tests with Docker](https://testautomationu.applitools.com/scaling-tests-with-docker/index.html)
 
+</details>
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
@@ -457,5 +447,3 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 To the extent possible under law, Unmesh Gundecha has waived all copyright and
 related or neighboring rights to this work.
-
-- [Blazemeter](#blazemeter_university)
