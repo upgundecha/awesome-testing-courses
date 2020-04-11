@@ -5,7 +5,7 @@
 <details open>
     <summary>Blazemeter University</summary>
 
-## Blazemeter University - Free
+## Blazemeter University - Free :free:
 
 - [JMeter™ Intro](https://university.blazemeter.com/)
 - [JMeter™ Pro](https://university.blazemeter.com/)
@@ -19,7 +19,7 @@
 <details open>
     <summary>Cucumber School</summary>
 
-## Cucumber School - Free
+## Cucumber School - Free :free:
 
 - [BDD with Cucumber (Java)](https://school.cucumber.io/courses/bdd-with-cucumber-java)
 - [BDD with Cucumber (JavaScript)](https://school.cucumber.io/courses/bdd-with-cucumber-javascript)
@@ -384,7 +384,7 @@
 <details open>
     <summary>Test Automation University</summary>
 
-## Test Automation University - Free
+## Test Automation University - Free :free:
 
 ### Test Automation
 - [Setting a Foundation for Successful Test Automation](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/index.html)
