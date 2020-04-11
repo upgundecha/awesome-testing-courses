@@ -379,8 +379,9 @@
 - [JMeter: Getting Started](https://www.pluralsight.com/courses/jmeter-getting-started)
 - [Tracking Real World Web Performance](https://www.pluralsight.com/courses/web-performance-tracking)
 
-</details open>
-<details>
+</details>
+
+<details open>
     <summary>Test Automation University</summary>
 
 ## Test Automation University - Free Course
