@@ -5,7 +5,7 @@
 <details open>
     <summary>Blazemeter University</summary>
 
-## Blazemeter University - Free Courses
+## Blazemeter University - Free
 
 - [JMeter™ Intro](https://university.blazemeter.com/)
 - [JMeter™ Pro](https://university.blazemeter.com/)
@@ -19,7 +19,7 @@
 <details open>
     <summary>Cucumber School</summary>
 
-## Cucumber School - Free Courses
+## Cucumber School - Free
 
 - [BDD with Cucumber (Java)](https://school.cucumber.io/courses/bdd-with-cucumber-java)
 - [BDD with Cucumber (JavaScript)](https://school.cucumber.io/courses/bdd-with-cucumber-javascript)
@@ -29,7 +29,7 @@
 <details open>
     <summary>LinkedIn Learning </summary>
 
-## LinkedIn Learning - Paid subscription
+## LinkedIn Learning - Paid subscription :moneybag:
 
 ### Software Testing
 
@@ -141,7 +141,7 @@
 <details open>
     <summary>Pluralsight</summary>
 
-## Pluralsight - Paid Subscription
+## Pluralsight - Paid Subscription :moneybag:
 
 ### Software Testing & Test Automation
 - [Automated Testing: End to End](https://www.pluralsight.com/courses/automated-testing-end-to-end)
@@ -384,7 +384,7 @@
 <details open>
     <summary>Test Automation University</summary>
 
-## Test Automation University - Free Course
+## Test Automation University - Free
 
 ### Test Automation
 - [Setting a Foundation for Successful Test Automation](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/index.html)
