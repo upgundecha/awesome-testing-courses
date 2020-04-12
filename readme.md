@@ -507,8 +507,8 @@
 
 </details>
 
-### Credits
-- Images in banner used from https://undraw.co/
+## Credits
+- Banner image used from [https://undraw.co/](https://undraw.co/)
 
 ## Contribute
 
