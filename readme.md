@@ -55,6 +55,22 @@
 </details>
 
 <details open>
+    <summary>JetBrains Academy</summary>
+
+## JetBrains Academy - Free courses on programming :free:
+
+### Java
+- [Java Track](https://hyperskill.org/onboarding/?track=java)
+
+### Kotlin
+- [Kotlin Track](https://hyperskill.org/onboarding/?track=kotlin)
+
+### Python
+- [Python Track](https://hyperskill.org/onboarding/?track=python)
+
+</details>
+
+<details open>
     <summary>LinkedIn Learning </summary>
 
 ## LinkedIn Learning - Paid subscription :moneybag:
@@ -173,6 +189,11 @@
 - [Continuous Integration: Tools, 2020](https://www.linkedin.com/learning/continuous-integration-tools)
 - [Learning Jenkins, 2018](https://www.linkedin.com/learning/learning-jenkins/welcome)
 - [Jenkins Essential Training, 2018](https://www.linkedin.com/learning/jenkins-essential-training/from-code-to-production-with-jenkins)
+
+### XML & CSS 
+- [XML Essential Training, 2018](https://www.linkedin.com/learning/xml-essential-training-2)
+- [CSS: Selectors, 2019](https://www.linkedin.com/learning/css-selectors-2)
+
 </details>
 
 <details open>
