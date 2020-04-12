@@ -190,7 +190,7 @@
 - [Learning Jenkins, 2018](https://www.linkedin.com/learning/learning-jenkins/welcome)
 - [Jenkins Essential Training, 2018](https://www.linkedin.com/learning/jenkins-essential-training/from-code-to-production-with-jenkins)
 
-### XML & CSS 
+### XML & CSS
 - [XML Essential Training, 2018](https://www.linkedin.com/learning/xml-essential-training-2)
 - [CSS: Selectors, 2019](https://www.linkedin.com/learning/css-selectors-2)
 
@@ -344,7 +344,7 @@
 - [Java: BDD with Cucumber and Gherkin Getting Started](https://www.pluralsight.com/courses/java-bdd-cucumber-gherkin-getting-started)
 - [Test-driven Rails with RSpec, Capybara, and Cucumber](https://www.pluralsight.com/courses/test-driven-rails-rspec-capybara-cucumber)
 
-#### SpecFlow 
+#### SpecFlow
 - [Business Readable Automated Tests with SpecFlow 2.0](https://www.pluralsight.com/courses/specflow-2-0-business-readable-automated-tests)
 - [Automated Business Readable Web Tests with Selenium and SpecFlow](https://www.pluralsight.com/courses/selenium-specflow-automated-business-readable-web-tests)
 - [Automated Acceptance Testing with SpecFlow and Gherkin](https://www.pluralsight.com/courses/automated-acceptance-testing-specflow-gherkin)
@@ -525,6 +525,41 @@
 - [Introduction to TestNG, 2019](https://testautomationu.applitools.com/introduction-to-testng/index.html)
 - [AI for Element Selection: Erasing the Pain of Fragile Test Scripts, 2019](https://testautomationu.applitools.com/ai-for-element-selection-erasing-the-pain-of-fragile-test-scripts/index.html)
 - [Scaling Tests with Docker, 2019](https://testautomationu.applitools.com/scaling-tests-with-docker/index.html)
+
+</details>
+
+<details open>
+    <summary>Ministry of Testing Dojo</summary>
+
+## The Dojo - Free :free: and Paid :moneybag:
+
+### JavaScript
+[Introduction to JavaScript](https://www.ministryoftesting.com/dojo/courses/introduction-to-javascript-mark-winteringham)
+[Let's Build an API Checking Framework](https://www.ministryoftesting.com/dojo/courses/let-s-build-an-api-checking-framework-mark-winteringham)
+
+### .NET
+[Coding For Non-Coders](https://www.ministryoftesting.com/dojo/courses/coding-for-non-coders-jim-holmes)
+
+### Python
+[Introduction to Python for Software Testers - Dave Westerveld](https://www.ministryoftesting.com/dojo/courses/introduction-to-python-for-software-testers-dave-westerveld)
+
+### Web Testing
+[Introduction To HTTP](https://www.ministryoftesting.com/dojo/courses/introduction-to-http)
+[The Building Blocks of the Internet](https://www.ministryoftesting.com/dojo/courses/the-building-blocks-of-the-internet-mark-winteringham)
+
+### Software Testing
+[Essentials - Introduction to Software Development and Testing](https://www.ministryoftesting.com/dojo/courses/essentials-introduction-to-software-development-and-testing)
+[Introduction To Modern Testing](https://www.ministryoftesting.com/dojo/courses/introduction-to-modern-testing-alan-page)
+[Optimising Manual Test Scripts For An Agile Environment](https://www.ministryoftesting.com/dojo/courses/optimising-manual-test-scripts-for-an-agile-environment-matt-archer)
+
+### Java
+[Introduction to Java](https://www.ministryoftesting.com/dojo/courses/introduction-to-java-mike-talks)
+
+### Mobile Testing
+[Beginner's Guide To Mobile Testing](https://www.ministryoftesting.com/dojo/courses/beginner-s-guide-to-mobile-testing-daniel-knott)
+
+### Linux
+[Linux Commands for Beginners](https://www.ministryoftesting.com/dojo/courses/linux-commands-for-beginners-lim-sim)
 
 </details>
 
