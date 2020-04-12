@@ -40,7 +40,6 @@
 - [Become a Test Automation Engineer](https://www.linkedin.com/learning/paths/become-a-test-automation-engineer)
 - [Become an Ethical Hacker](https://www.linkedin.com/learning/paths/become-an-ethical-hacker)
 
-
 ### Software Testing
 
 - [Programming Foundations: Software Testing/QA, 2019](https://www.linkedin.com/learning/programming-foundations-software-testing-qa)
@@ -150,7 +149,7 @@
 - [Continuous Integration: Tools, 2020](https://www.linkedin.com/learning/continuous-integration-tools)
 - [Learning Jenkins, 2018](https://www.linkedin.com/learning/learning-jenkins/welcome)
 - [Jenkins Essential Training, 2018](https://www.linkedin.com/learning/jenkins-essential-training/from-code-to-production-with-jenkins)
-1</details>
+</details>
 
 <details open>
     <summary>Pluralsight</summary>
@@ -400,6 +399,21 @@
 
 ## Test Automation University - Free :free:
 
+### Learning Paths
+
+- [Web UI Java Path](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-java-path)
+- [Web UI JavaScript Path](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-javascript-path)
+- [Web UI Python Path](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-python-path)
+- [Web UI C# Path](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-csharp-path)
+- [Web UI Ruby Path](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-ruby-path)
+- [API Java Path](https://testautomationu.applitools.com/learningpaths.html?id=api-java-path)
+- [API JavaScript Path](https://testautomationu.applitools.com/learningpaths.html?id=api-javascript-path)
+- [Mobile Swift Path](https://testautomationu.applitools.com/learningpaths.html?id=mobile-swift-path)
+- [Mobile Java Path](https://testautomationu.applitools.com/learningpaths.html?id=mobile-java-path)
+- [Mobile Python Path](https://testautomationu.applitools.com/learningpaths.html?id=mobile-python-path)
+- [Mobile JavaScript Path](https://testautomationu.applitools.com/learningpaths.html?id=mobile-javascript-path)
+- [Codeless Path](https://testautomationu.applitools.com/learningpaths.html?id=codeless-path)
+
 ### Test Automation
 - [Setting a Foundation for Successful Test Automation, 2019](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/index.html)
 - [Test Automation in DevOps, 2019](https://testautomationu.applitools.com/test-automation-in-devops/index.html)
@@ -468,6 +482,32 @@
 - [Introduction to TestNG, 2019](https://testautomationu.applitools.com/introduction-to-testng/index.html)
 - [AI for Element Selection: Erasing the Pain of Fragile Test Scripts, 2019](https://testautomationu.applitools.com/ai-for-element-selection-erasing-the-pain-of-fragile-test-scripts/index.html)
 - [Scaling Tests with Docker, 2019](https://testautomationu.applitools.com/scaling-tests-with-docker/index.html)
+
+</details>
+
+<details open>
+    <summary>Codecademy</summary>
+
+## Codecademy - Paid subscription :moneybag:
+
+### Testing Courses
+- [Learn JavaScript Unit Testing](https://www.codecademy.com/learn/learn-javascript-unit-testing)
+- [Learn Testing for Web Development](https://www.codecademy.com/learn/learn-testing-for-web-development)
+
+</details>
+
+<details open>
+    <summary>edX</summary>
+
+## edX- Free to audit :free:, paid verified certificate :moneybag:
+
+### Software Testing Courses
+- [Methods and techniques to test and verify software, MicroMasters, 2020](https://www.edx.org/micromasters/usmx-umgc-software-testing-and-verification)
+    - [Software Testing Fundamentals, 2020](https://www.edx.org/course/software-testing-fundamentals)
+    - [Software Testing Management, 2020](https://www.edx.org/course/software-testing-management)
+    - [Formal Software Verification, 2020](https://www.edx.org/course/formal-software-verification-2)
+- [Automated Software Testing: Model and State-based Testing](https://www.edx.org/course/automated-software-testing-model-and-state-based-2)
+- [Automated Software Testing: Unit Testing, Coverage Criteria and Design for Testability](https://www.edx.org/course/automated-software-testing-unit-testing-coverage-2)
 
 </details>
 
