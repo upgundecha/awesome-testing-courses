@@ -386,68 +386,78 @@
 </details>
 
 <details open>
-    <summary>Test Automation University</summary>
+    <summary>Applitools Test Automation University</summary>
 
 ## Test Automation University - Free :free:
 
 ### Test Automation
-- [Setting a Foundation for Successful Test Automation](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/index.html)
-- [Test Automation in DevOps](https://testautomationu.applitools.com/test-automation-in-devops/index.html)
-- [IntelliJ for Test Automation Engineers](https://testautomationu.applitools.com/intellij/index.html)
-- [Testing From The Inside: Unit Testing Edition](https://testautomationu.applitools.com/unit-testing/index.html)
-- [The Whole Team Approach to Continuous Testing](https://testautomationu.applitools.com/the-whole-team-approach-to-continuous-testing/chapter5.html)
+- [Setting a Foundation for Successful Test Automation, 2019](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/index.html)
+- [Test Automation in DevOps, 2019](https://testautomationu.applitools.com/test-automation-in-devops/index.html)
+- [IntelliJ for Test Automation Engineers, 2020](https://testautomationu.applitools.com/intellij/index.html)
+- [Testing From The Inside: Unit Testing Edition, 2019](https://testautomationu.applitools.com/unit-testing/index.html)
+- [The Whole Team Approach to Continuous Testing, 2019](https://testautomationu.applitools.com/the-whole-team-approach-to-continuous-testing/chapter5.html)
 
 ### API Testing
-- [Exploring Service APIs through Test Automation](https://testautomationu.applitools.com/exploring-service-apis-through-test-automation/chapter3.1.html)
-- [Automating your API tests with REST Assured](https://testautomationu.applitools.com/automating-your-api-tests-with-rest-assured/index.html)
+- [Exploring Service APIs through Test Automation, 2019](https://testautomationu.applitools.com/exploring-service-apis-through-test-automation/chapter3.1.html)
+- [Automating your API tests with REST Assured, 2019](https://testautomationu.applitools.com/automating-your-api-tests-with-rest-assured/index.html)
 
 ### Selenium
 
 #### Java
-- [Selenium WebDriver with Java](https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/index.html)
+- [Selenium WebDriver with Java, 2019](https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/index.html)
 
 #### JavaScript
-- [UI Automation with WebdriverIO](https://testautomationu.applitools.com/webdriverio-tutorial/index.html)
+- [UI Automation with WebdriverIO, 2019](https://testautomationu.applitools.com/webdriverio-tutorial/index.html)
 
 #### .NET
-- [Intro to Selenium WebDriver with .NET Core](https://testautomationu.applitools.com/intro-to-selenium-webdriver-with-net-core/index.html)
-- [From Scripting to Framework with Selenium and C#](https://testautomationu.applitools.com/test-automation-framework-csharp/index.html)
+- [Intro to Selenium WebDriver with .NET Core, 2019](https://testautomationu.applitools.com/intro-to-selenium-webdriver-with-net-core/index.html)
+- [From Scripting to Framework with Selenium and C#, 2019](https://testautomationu.applitools.com/test-automation-framework-csharp/index.html)
 
 #### Ruby
-- [Selenium WebDriver with Ruby](https://testautomationu.applitools.com/selenium-webdriver-with-ruby/index.html)
-- [Introduction to Capybara](https://testautomationu.applitools.com/capybara-ruby/index.html)
+- [Selenium WebDriver with Ruby, 2019](https://testautomationu.applitools.com/selenium-webdriver-with-ruby/index.html)
+- [Introduction to Capybara, 2019](https://testautomationu.applitools.com/capybara-ruby/index.html)
 
 #### Others
-- [Codeless Test Automation with Selenium IDE](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/index.html)
-- [Web Element Locator Strategies](https://testautomationu.applitools.com/web-element-locator-strategies/index.html)
+- [Codeless Test Automation with Selenium IDE, 2019](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/index.html)
+- [Web Element Locator Strategies, 2019](https://testautomationu.applitools.com/web-element-locator-strategies/index.html)
 
 ### Appium
-- [Mobile Automation with Appium in JavaScript](https://testautomationu.applitools.com/appium-javascript-tutorial/index.html)
-- [Automated Visual Testing with Appium](https://testautomationu.applitools.com/appium-visual-testing/index.html)
+- [Mobile Automation with Appium in JavaScript, 2020](https://testautomationu.applitools.com/appium-javascript-tutorial/index.html)
+- [Automated Visual Testing with Appium, 2019](https://testautomationu.applitools.com/appium-visual-testing/index.html)
 
 #### JavaScript
-- [Jest JavaScript Testing Framework](https://testautomationu.applitools.com/jest-testing-tutorial/index.html)
-- [Mocha JavaScript Test Framework](https://testautomationu.applitools.com/mocha-javascript-tests/index.html)
-- [Introduction to Chai Assertions](https://testautomationu.applitools.com/chai-test-assertions/index.html)
-- [Automating in the Browser Using JavaScript](https://testautomationu.applitools.com/automating-in-the-browser-using-javascript/index.html)
+- [Jest JavaScript Testing Framework, 2019](https://testautomationu.applitools.com/jest-testing-tutorial/index.html)
+- [Mocha JavaScript Test Framework, 2019](https://testautomationu.applitools.com/mocha-javascript-tests/index.html)
+- [Introduction to Chai Assertions, 2019](https://testautomationu.applitools.com/chai-test-assertions/index.html)
+- [Automating in the Browser Using JavaScript, 2019](https://testautomationu.applitools.com/automating-in-the-browser-using-javascript/index.html)
 
 ### Visual Testing
-- [Automated Visual Testing: A Fast Path To Test Automation Success](https://testautomationu.applitools.com/automated-visual-testing-a-fast-path-to-test-automation-success/index.html)
-- [Modern Functional Test Automation Through Visual AI](https://testautomationu.applitools.com/modern-functional-testing/index.html)
-- [Automated Visual Testing in C#](https://testautomationu.applitools.com/automated-visual-testing-in-csharp/index.html)
-- [Automated Visual Testing with WebdriverIO](https://testautomationu.applitools.com/automated-visual-testing-javascript-webdriverio/index.html)
+- [Automated Visual Testing: A Fast Path To Test Automation Success, 2019](https://testautomationu.applitools.com/automated-visual-testing-a-fast-path-to-test-automation-success/index.html)
+- [Modern Functional Test Automation Through Visual AI, 2019](https://testautomationu.applitools.com/modern-functional-testing/index.html)
+- [Automated Visual Testing in C#, 2019](https://testautomationu.applitools.com/automated-visual-testing-in-csharp/index.html)
+- [Automated Visual Testing with WebdriverIO, 2019](https://testautomationu.applitools.com/automated-visual-testing-javascript-webdriverio/index.html)
 
 ### Cypress
-- [Introduction to Cypress](https://testautomationu.applitools.com/cypress-tutorial/index.html)
+- [Introduction to Cypress, 2019](https://testautomationu.applitools.com/cypress-tutorial/index.html)
 
 ### Performance Testing
-- [Tools and Techniques for Performance and Load Testing](https://testautomationu.applitools.com/performance-and-load-testing/index.html)
+- [Tools and Techniques for Performance and Load Testing, 2019](https://testautomationu.applitools.com/performance-and-load-testing/index.html)
+
+### Programming Languages
+- [Python Programming, 2020](https://testautomationu.applitools.com/python-tutorial/index.html)
+- [Java Programming, 2019](https://testautomationu.applitools.com/java-programming-course/index.html)
+
+### BDD
+- [Cucumber with Java, 2020](https://testautomationu.applitools.com/cucumber-java-tutorial/index.html)
+- [Cucumber with JavaScript, 2020](https://testautomationu.applitools.com/cucumber-javascript-tutorial/index.html)
+- [Behavior Driven Python with pytest-bdd, 2019](https://testautomationu.applitools.com/behavior-driven-python-with-pytest-bdd/index.html)
+
 
 ### Others
-- [Introduction to iOS Test Automation with XCUITest](https://testautomationu.applitools.com/introduction-to-ios-test-automation-with-xcuitest/index.html)
-- [Introduction to TestNG](https://testautomationu.applitools.com/introduction-to-testng/index.html)
-- [AI for Element Selection: Erasing the Pain of Fragile Test Scripts](https://testautomationu.applitools.com/ai-for-element-selection-erasing-the-pain-of-fragile-test-scripts/index.html)
-- [Scaling Tests with Docker](https://testautomationu.applitools.com/scaling-tests-with-docker/index.html)
+- [Introduction to iOS Test Automation with XCUITest, 2019](https://testautomationu.applitools.com/introduction-to-ios-test-automation-with-xcuitest/index.html)
+- [Introduction to TestNG, 2019](https://testautomationu.applitools.com/introduction-to-testng/index.html)
+- [AI for Element Selection: Erasing the Pain of Fragile Test Scripts, 2019](https://testautomationu.applitools.com/ai-for-element-selection-erasing-the-pain-of-fragile-test-scripts/index.html)
+- [Scaling Tests with Docker, 2019](https://testautomationu.applitools.com/scaling-tests-with-docker/index.html)
 
 </details>
 
