@@ -35,112 +35,122 @@
 
 ## LinkedIn Learning - Paid subscription :moneybag:
 
+### Learning Paths
+- [Become a Software Tester](https://www.linkedin.com/learning/paths/become-a-software-tester)
+- [Become a Test Automation Engineer](https://www.linkedin.com/learning/paths/become-a-test-automation-engineer)
+- [Become an Ethical Hacker](https://www.linkedin.com/learning/paths/become-an-ethical-hacker)
+
+
 ### Software Testing
 
-- [Programming Foundations: Software Testing/QA](https://www.linkedin.com/learning/programming-foundations-software-testing-qa)
-- [Agile Testing](https://www.linkedin.com/learning/agile-testing-2)
-- [Software Testing: Exploratory Testing](https://www.linkedin.com/learning/software-testing-exploratory-testing)
-- [Software Testing: Tools](https://www.linkedin.com/learning/software-testing-tools)
-- [Software Testing Foundations: Test Management](https://www.linkedin.com/learning/software-testing-foundations-test-management)
-- [Software Testing Foundations: Test Planning](https://www.linkedin.com/learning/software-testing-foundations-test-planning)
+- [Programming Foundations: Software Testing/QA, 2019](https://www.linkedin.com/learning/programming-foundations-software-testing-qa)
+- [Agile Testing, 2018](https://www.linkedin.com/learning/agile-testing-2)
+- [Software Testing: Exploratory Testing, 2019](https://www.linkedin.com/learning/software-testing-exploratory-testing)
+- [Software Testing: Tools, 2019](https://www.linkedin.com/learning/software-testing-tools)
+- [Software Testing Foundations: Test Management, 2020](https://www.linkedin.com/learning/software-testing-foundations-test-management)
+- [Software Testing Foundations: Test Planning, 2020](https://www.linkedin.com/learning/software-testing-foundations-test-planning)
 - [Software Testing Tips Weekly](https://www.linkedin.com/learning/software-testing-tips-weekly)
-- [Nail Your Software Tester Interview ](https://www.linkedin.com/learning/nail-your-software-tester-interview)
+- [Nail Your Software Tester Interview, 2020](https://www.linkedin.com/learning/nail-your-software-tester-interview)
+- [Programming Foundations: Test-Driven Development, 2019](https://www.linkedin.com/learning/programming-foundations-test-driven-development-2)
+- [UX Foundations: Usability Testing, 2015](https://www.linkedin.com/learning/ux-foundations-usability-testing)
 
 ### Test Automation
 
-- [Test Automation Foundations](https://www.linkedin.com/learning/test-automation-foundations)
-- [Scripting for Testers](https://www.linkedin.com/learning/scripting-for-testers/welcome)
-- [Using Python for Automation](https://www.linkedin.com/learning/using-python-for-automation)
+- [Test Automation Foundations, 2018](https://www.linkedin.com/learning/test-automation-foundations)
+- [Scripting for Testers, 2018](https://www.linkedin.com/learning/scripting-for-testers/welcome)
+- [Using Python for Automation, 2019](https://www.linkedin.com/learning/using-python-for-automation)
 
 ### Web Testing
 
 #### Selenium
-- [Learning Selenium](https://www.linkedin.com/learning/learning-selenium)
-- [Selenium Essential Training](https://www.linkedin.com/learning/selenium-essential-training)
-- [Advanced Selenium: Support Classes](https://www.linkedin.com/learning/advanced-selenium-support-classes/the-best-kept-secret-in-webdriver)
-- [Advanced Selenium: 3 Synchronization Strategies](https://www.linkedin.com/learning/advanced-selenium-3-synchronization-strategies)
-- [Advanced Selenium: Automation Frameworks](https://www.linkedin.com/learning/advanced-selenium-automation-frameworks)
+- [Learning Selenium, 2018](https://www.linkedin.com/learning/learning-selenium)
+- [Selenium Essential Training, 2018](https://www.linkedin.com/learning/selenium-essential-training)
+- [Advanced Selenium: Support Classes, 2019](https://www.linkedin.com/learning/advanced-selenium-support-classes/the-best-kept-secret-in-webdriver)
+- [Advanced Selenium: 3 Synchronization Strategies, 2020](https://www.linkedin.com/learning/advanced-selenium-3-synchronization-strategies)
+- [Advanced Selenium: Automation Frameworks, 2019](https://www.linkedin.com/learning/advanced-selenium-automation-frameworks)
 
 #### Robot Framework
-- [Robot Framework Test Automation: Level 1 (Selenium)](https://www.linkedin.com/learning/robot-framework-test-automation-level-1-selenium/about-me)
-- [Robot Framework Test Automation: Level 2](https://www.linkedin.com/learning/robot-framework-test-automation-level-2)
-- [Robot Framework Test Automation: Jenkins CI and Git Version Control](https://www.linkedin.com/learning/robot-framework-test-automation-jenkins-ci-and-git-version-control/overview)
-- [Robot Framework Test Automation: Sauce Labs](https://www.linkedin.com/learning/robot-framework-test-automation-sauce-labs)
+- [Robot Framework Test Automation: Level 1 (Selenium), 2018](https://www.linkedin.com/learning/robot-framework-test-automation-level-1-selenium/about-me)
+- [Robot Framework Test Automation: Level 2, 2018](https://www.linkedin.com/learning/robot-framework-test-automation-level-2)
+- [Robot Framework Test Automation: Jenkins CI and Git Version Control, 2018](https://www.linkedin.com/learning/robot-framework-test-automation-jenkins-ci-and-git-version-control/overview)
+- [Robot Framework Test Automation: Sauce Labs, 2018](https://www.linkedin.com/learning/robot-framework-test-automation-sauce-labs)
 
 #### Cypress
-- [End-to-End JavaScript Testing with Cypress.io](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io)
+- [End-to-End JavaScript Testing with Cypress.io, 2019](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io)
 
 
 ### Mobile Testing
-- [Software Testing: Planning Tests for Mobile](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile)
-- [Mobile Testing with Appium](https://www.linkedin.com/learning/mobile-testing-with-appium/what-can-you-do-with-appium)
-- [Advanced Appium](https://www.linkedin.com/learning/advanced-appium)
-- [Android Espresso Essential Training](https://www.linkedin.com/learning/android-espresso-essential-training)
-- [Advanced Android Espresso Testing](https://www.linkedin.com/learning/advanced-android-espresso-testing/welcome)
+- [Software Testing: Planning Tests for Mobile, 2019](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile)
+- [Mobile Testing with Appium, 2019](https://www.linkedin.com/learning/mobile-testing-with-appium/what-can-you-do-with-appium)
+- [Advanced Appium, 2019](https://www.linkedin.com/learning/advanced-appium)
+- [Unit Testing for iOS Developers, 2018](https://www.linkedin.com/learning/unit-testing-for-ios-developers)
+- [Automated Testing in Xcode, 2018](https://www.linkedin.com/learning/automated-testing-in-xcode/welcome)
+- [iOS App Development: Test-Driven Development, 2018](https://www.linkedin.com/learning/ios-app-development-test-driven-development-2)
+- [Android Espresso Essential Training, 2018](https://www.linkedin.com/learning/android-espresso-essential-training)
+- [Advanced Android Espresso Testing, 2018](https://www.linkedin.com/learning/advanced-android-espresso-testing/welcome)
+- [Effective Android Testing for Mobile Developers, 2017](https://www.linkedin.com/learning/effective-android-testing-for-mobile-developers)
+
 
 ### API Testing
-- [API Testing Foundations](https://www.linkedin.com/learning/api-testing-foundations)
-- [API Testing and Validation](https://www.linkedin.com/learning/api-testing-and-validation)
-- [API Test Automation with SoapUI](https://www.linkedin.com/learning/api-test-automation-with-soapui/learning-soapui-for-api-testing)
-- [Introducing Postman](https://www.linkedin.com/learning/introducing-postman)
-- [Postman Essential Training](https://www.linkedin.com/learning/postman-essential-training)
+- [API Testing Foundations, 2018](https://www.linkedin.com/learning/api-testing-foundations)
+- [API Testing and Validation, 2017](https://www.linkedin.com/learning/api-testing-and-validation)
+- [API Test Automation with SoapUI, 2019](https://www.linkedin.com/learning/api-test-automation-with-soapui/learning-soapui-for-api-testing)
+- [Introducing Postman, 2019](https://www.linkedin.com/learning/introducing-postman)
+- [Postman Essential Training, 2020](https://www.linkedin.com/learning/postman-essential-training)
 
 ### Performance Testing
-- [Performance Testing Foundations](https://www.linkedin.com/learning/performance-testing-foundations)
-- [JMeter: Performance and Load Testing](https://www.linkedin.com/learning/jmeter-performance-and-load-testing)
+- [Performance Testing Foundations, 2019](https://www.linkedin.com/learning/performance-testing-foundations)
+- [JMeter: Performance and Load Testing, 2019](https://www.linkedin.com/learning/jmeter-performance-and-load-testing)
 
-### Developer Testing
+### Java
+- [Java: Testing with JUnit, 2016](https://www.linkedin.com/learning/java-testing-with-junit/welcome)
+- [Spring: Test-Driven Development with JUnit, 2017](https://www.linkedin.com/learning/spring-test-driven-development-with-junit/welcome)
+- [Practical Test-Driven Development for Java Programmers, 2018](https://www.linkedin.com/learning/practical-test-driven-development-for-java-programmers/welcome)
+- [Learning JUnit 5, 2018](https://www.linkedin.com/learning/learning-junit-5)
 
-#### General
-- [Programming Foundations: Test-Driven Development](https://www.linkedin.com/learning/programming-foundations-test-driven-development-2)
+### .NET
+- [C# Test Driven Development, 2016](https://www.linkedin.com/learning/c-sharp-test-driven-development-2/welcome)
 
-#### Java
-- [Java: Testing with JUnit](https://www.linkedin.com/learning/java-testing-with-junit/welcome)
-- [Spring: Test-Driven Development with JUnit](https://www.linkedin.com/learning/spring-test-driven-development-with-junit/welcome)
-- [Practical Test-Driven Development for Java Programmers](https://www.linkedin.com/learning/practical-test-driven-development-for-java-programmers/welcome)
-- [Learning JUnit 5](https://www.linkedin.com/learning/learning-junit-5)
+### Ruby
+- [Ruby: Testing with RSpec, 2015](https://www.linkedin.com/learning/ruby-testing-with-rspec/welcome)
 
-#### Python
-- [Unit Testing in Python](https://www.linkedin.com/learning/unit-testing-in-python)
-- [Python Automation and Testing](https://www.linkedin.com/learning/python-automation-and-testing/welcome)
-- [Unit Testing and Test Driven Development in Python](https://www.linkedin.com/learning/unit-testing-and-test-driven-development-in-python/welcome)
+### Python
+- [Unit Testing in Python, 2020](https://www.linkedin.com/learning/unit-testing-in-python)
+- [Python Automation and Testing, 2018](https://www.linkedin.com/learning/python-automation-and-testing/welcome)
+- [Unit Testing and Test Driven Development in Python, 2018](https://www.linkedin.com/learning/unit-testing-and-test-driven-development-in-python/welcome)
 
-#### JavaScript
-- [JavaScript: Test-Driven Development (ES6)](https://www.linkedin.com/learning/javascript-test-driven-development-es6)
-- [Node.js: Testing and Code Quality](https://www.linkedin.com/learning/node-js-testing-and-code-quality)
-
-### Others
-- [React: Testing and Debugging](https://www.linkedin.com/learning/react-testing-and-debugging)
-- [Unit Testing for iOS Developers](https://www.linkedin.com/learning/unit-testing-for-ios-developers)
-- [C# Test Driven Development](https://www.linkedin.com/learning/c-sharp-test-driven-development-2/welcome)
-- [Test-Driven Infrastructure with Chef](https://www.linkedin.com/learning/test-driven-infrastructure-with-chef)
-- [Automated Testing in Xcode](https://www.linkedin.com/learning/automated-testing-in-xcode/welcome)
-- [iOS App Development: Test-Driven Development](https://www.linkedin.com/learning/ios-app-development-test-driven-development-2)
-- [Angular Testing and Debugging](https://www.linkedin.com/learning/angular-testing-and-debugging)
-- [Ruby: Testing with RSpec](https://www.linkedin.com/learning/ruby-testing-with-rspec/welcome)
-- [Effective Android Testing for Mobile Developers](https://www.linkedin.com/learning/effective-android-testing-for-mobile-developers)
+### JavaScript
+- [JavaScript: Test-Driven Development (ES6), 2019](https://www.linkedin.com/learning/javascript-test-driven-development-es6)
+- [Node.js: Testing and Code Quality, 2017](https://www.linkedin.com/learning/node-js-testing-and-code-quality)
 
 ### BDD
-- [Behavior-Driven Development](https://www.linkedin.com/learning/behavior-driven-development)
-- [Cucumber Essential Training](https://www.linkedin.com/learning/cucumber-essential-training)
+- [Behavior-Driven Development, 2018](https://www.linkedin.com/learning/behavior-driven-development)
+- [Cucumber Essential Training, 2019](https://www.linkedin.com/learning/cucumber-essential-training)
 
 ### Others
-- [UX Foundations: Usability Testing](https://www.linkedin.com/learning/ux-foundations-usability-testing)
+- [React: Testing and Debugging, 2017](https://www.linkedin.com/learning/react-testing-and-debugging)
+- [Angular Testing and Debugging, 2018](https://www.linkedin.com/learning/angular-testing-and-debugging)
+- [Test-Driven Infrastructure with Chef, 2018](https://www.linkedin.com/learning/test-driven-infrastructure-with-chef)
 
 ### Security Testing
-- [DevSecOps: Automated Security Testing](https://www.linkedin.com/learning/devsecops-automated-security-testing)
-- [Security Testing: Vulnerability Management with Nessus](https://www.linkedin.com/learning/security-testing-vulnerability-management-with-nessus/managing-vulnerabilities-with-nessus)
-- [Online Application Security Testing Essential Training](https://www.linkedin.com/learning/online-application-security-testing-essential-training)
-- [Offline Application Security Testing Essential Training](https://www.linkedin.com/learning/offline-application-security-testing-essential-training)
-- [Android App Penetration Testing](https://www.linkedin.com/learning/android-app-penetration-testing)
-- [Penetration Testing: Advanced Web Testing](https://www.linkedin.com/learning/penetration-testing-advanced-web-testing)
-- [Security Testing Essential Training](https://www.linkedin.com/learning/security-testing-essential-training)
-- [Penetration Testing: Advanced Kali Linux](https://www.linkedin.com/learning/penetration-testing-advanced-kali-linux)
-- [Penetration Testing: Advanced Tunneling and Exfiltration](https://www.linkedin.com/learning/penetration-testing-advanced-tunneling-and-exfiltration)
-- [Penetration Testing: Advanced Enumeration](https://www.linkedin.com/learning/penetration-testing-advanced-enumeration)
-- [Penetration Testing Essential Training](https://www.linkedin.com/learning/penetration-testing-essential-training)
+- [Security Testing Essential Training, 2019](https://www.linkedin.com/learning/security-testing-essential-training)
+- [Penetration Testing Essential Training, 2017](https://www.linkedin.com/learning/penetration-testing-essential-training)
+- [DevSecOps: Automated Security Testing, 2018](https://www.linkedin.com/learning/devsecops-automated-security-testing)
+- [Security Testing: Vulnerability Management with Nessus, 2019](https://www.linkedin.com/learning/security-testing-vulnerability-management-with-nessus/managing-vulnerabilities-with-nessus)
+- [Online Application Security Testing Essential Training, 2019](https://www.linkedin.com/learning/online-application-security-testing-essential-training)
+- [Offline Application Security Testing Essential Training, 2019](https://www.linkedin.com/learning/offline-application-security-testing-essential-training)
+- [Android App Penetration Testing, 2019](https://www.linkedin.com/learning/android-app-penetration-testing)
+- [Penetration Testing: Advanced Web Testing, 2018](https://www.linkedin.com/learning/penetration-testing-advanced-web-testing)
+- [Penetration Testing: Advanced Kali Linux, 2019](https://www.linkedin.com/learning/penetration-testing-advanced-kali-linux)
+- [Penetration Testing: Advanced Tunneling and Exfiltration, 2018](https://www.linkedin.com/learning/penetration-testing-advanced-tunneling-and-exfiltration)
+- [Penetration Testing: Advanced Enumeration, 2018](https://www.linkedin.com/learning/penetration-testing-advanced-enumeration)
 
-</details>
+### Continuous Integration
+- [DevOps Foundations: Continuous Delivery/Continuous Integration, 2017](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration/welcome)
+- [Continuous Integration: Tools, 2020](https://www.linkedin.com/learning/continuous-integration-tools)
+- [Learning Jenkins, 2018](https://www.linkedin.com/learning/learning-jenkins/welcome)
+- [Jenkins Essential Training, 2018](https://www.linkedin.com/learning/jenkins-essential-training/from-code-to-production-with-jenkins)
+1</details>
 
 <details open>
     <summary>Pluralsight</summary>
