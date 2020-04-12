@@ -509,6 +509,9 @@
 
 </details>
 
+### Credits
+- Images in banner used from https://undraw.co/
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
