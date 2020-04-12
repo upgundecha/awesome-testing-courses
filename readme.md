@@ -1,8 +1,6 @@
 # Awesome Testing Courses & Tutorials [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<p align="center">
-    <img src="https://github.com/upgundecha/awesome-testing-courses/blob/master/undraw_online_video_ivvq.png">
-</p>
+![](https://github.com/upgundecha/awesome-testing-courses/blob/master/banner.png")
 
 > A curated list of awesome online courses & tutorials on software testing, test automation and more...
 
@@ -523,3 +521,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 To the extent possible under law, Unmesh Gundecha has waived all copyright and
 related or neighboring rights to this work.
+
