@@ -522,3 +522,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 To the extent possible under law, Unmesh Gundecha has waived all copyright and
 related or neighboring rights to this work.
 
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/Dk4z0CS)
