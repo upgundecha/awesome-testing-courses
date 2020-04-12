@@ -19,6 +19,17 @@
 </details>
 
 <details open>
+    <summary>Codecademy</summary>
+
+## Codecademy - Paid subscription :moneybag:
+
+### Testing Courses
+- [Learn JavaScript Unit Testing](https://www.codecademy.com/learn/learn-javascript-unit-testing)
+- [Learn Testing for Web Development](https://www.codecademy.com/learn/learn-testing-for-web-development)
+
+</details>
+
+<details open>
     <summary>Cucumber School</summary>
 
 ## Cucumber School - Free :free:
@@ -26,6 +37,21 @@
 - [BDD with Cucumber (Java)](https://school.cucumber.io/courses/bdd-with-cucumber-java)
 - [BDD with Cucumber (JavaScript)](https://school.cucumber.io/courses/bdd-with-cucumber-javascript)
 - [BDD with Cucumber (Ruby)](https://school.cucumber.io/courses/bdd-with-cucumber-ruby)
+</details>
+
+<details open>
+    <summary>edX</summary>
+
+## edX- Free to audit :free:, verified certificate :moneybag:
+
+### Software Testing Courses
+- [Methods and techniques to test and verify software, MicroMasters, 2020](https://www.edx.org/micromasters/usmx-umgc-software-testing-and-verification)
+    - [Software Testing Fundamentals, 2020](https://www.edx.org/course/software-testing-fundamentals)
+    - [Software Testing Management, 2020](https://www.edx.org/course/software-testing-management)
+    - [Formal Software Verification, 2020](https://www.edx.org/course/formal-software-verification-2)
+- [Automated Software Testing: Model and State-based Testing](https://www.edx.org/course/automated-software-testing-model-and-state-based-2)
+- [Automated Software Testing: Unit Testing, Coverage Criteria and Design for Testability](https://www.edx.org/course/automated-software-testing-unit-testing-coverage-2)
+
 </details>
 
 <details open>
@@ -478,32 +504,6 @@
 - [Introduction to TestNG, 2019](https://testautomationu.applitools.com/introduction-to-testng/index.html)
 - [AI for Element Selection: Erasing the Pain of Fragile Test Scripts, 2019](https://testautomationu.applitools.com/ai-for-element-selection-erasing-the-pain-of-fragile-test-scripts/index.html)
 - [Scaling Tests with Docker, 2019](https://testautomationu.applitools.com/scaling-tests-with-docker/index.html)
-
-</details>
-
-<details open>
-    <summary>Codecademy</summary>
-
-## Codecademy - Paid subscription :moneybag:
-
-### Testing Courses
-- [Learn JavaScript Unit Testing](https://www.codecademy.com/learn/learn-javascript-unit-testing)
-- [Learn Testing for Web Development](https://www.codecademy.com/learn/learn-testing-for-web-development)
-
-</details>
-
-<details open>
-    <summary>edX</summary>
-
-## edX- Free to audit :free:, verified certificate :moneybag:
-
-### Software Testing Courses
-- [Methods and techniques to test and verify software, MicroMasters, 2020](https://www.edx.org/micromasters/usmx-umgc-software-testing-and-verification)
-    - [Software Testing Fundamentals, 2020](https://www.edx.org/course/software-testing-fundamentals)
-    - [Software Testing Management, 2020](https://www.edx.org/course/software-testing-management)
-    - [Formal Software Verification, 2020](https://www.edx.org/course/formal-software-verification-2)
-- [Automated Software Testing: Model and State-based Testing](https://www.edx.org/course/automated-software-testing-model-and-state-based-2)
-- [Automated Software Testing: Unit Testing, Coverage Criteria and Design for Testability](https://www.edx.org/course/automated-software-testing-unit-testing-coverage-2)
 
 </details>
 
