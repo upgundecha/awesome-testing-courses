@@ -157,16 +157,14 @@
 ## Pluralsight - Paid Subscription :moneybag:
 
 ### Software Testing & Test Automation
-- [Automated Testing: End to End](https://www.pluralsight.com/courses/automated-testing-end-to-end)
-- [Test First Development - Part 1](https://www.pluralsight.com/courses/test-first-development-1)
-- [Test First Development - Part 2](https://www.pluralsight.com/courses/test-first-development-2)
-- [Test-driven Development: The Big Picture](https://www.pluralsight.com/courses/test-driven-development-big-picture)
-- [Automated Testing for Fraidy Cats Like Me](https://www.pluralsight.com/courses/automated-testing-fraidy-cats)
-- [Creating Maintainable Contexts for Automated Testing](https://www.pluralsight.com/courses/automated-testing-creating-maintainable-contexts)
-- [What Is TDD and Why It Is Not Unit Testing: Executive Briefing](https://www.pluralsight.com/courses/tdd-is-not-unit-testing-executive-briefing)
-- [Testing Automation: The Big Picture](https://www.pluralsight.com/courses/testing-automation-big-picture)
-- [Coding Dojo: Test Driven Development](https://www.pluralsight.com/courses/the-coding-dojo)
-- [Improving Testability Through Design](https://www.pluralsight.com/courses/improving-testability-through-design)
+- [Automated Testing: End to End, 2013](https://www.pluralsight.com/courses/automated-testing-end-to-end)
+- [Test First Development - Part 1, 2010](https://www.pluralsight.com/courses/test-first-development-1)
+- [Test First Development - Part 2, 2010](https://www.pluralsight.com/courses/test-first-development-2)
+- [Test-driven Development: The Big Picture, 2017](https://www.pluralsight.com/courses/test-driven-development-big-picture)
+- [Automated Testing for Fraidy Cats Like Me, 2013](https://www.pluralsight.com/courses/automated-testing-fraidy-cats)
+- [What Is TDD and Why It Is Not Unit Testing: Executive Briefing, 2019](https://www.pluralsight.com/courses/tdd-is-not-unit-testing-executive-briefing)
+- [Testing Automation: The Big Picture, 2017](https://www.pluralsight.com/courses/testing-automation-big-picture)
+- [Coding Dojo: Test Driven Development, 2013](https://www.pluralsight.com/courses/the-coding-dojo)
 
 ### Unit Testing
 - [Advanced Unit Testing](https://www.pluralsight.com/courses/advanced-unit-testing)
@@ -499,7 +497,7 @@
 <details open>
     <summary>edX</summary>
 
-## edX- Free to audit :free:, paid verified certificate :moneybag:
+## edX- Free to audit :free:, verified certificate :moneybag:
 
 ### Software Testing Courses
 - [Methods and techniques to test and verify software, MicroMasters, 2020](https://www.edx.org/micromasters/usmx-umgc-software-testing-and-verification)
