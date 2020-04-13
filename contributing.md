@@ -8,9 +8,8 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Make sure the high level list is alphabetcially ordered
+- Do not add certification courses
 
 Thank you for your suggestions!
 
