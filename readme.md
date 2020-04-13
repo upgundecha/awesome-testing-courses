@@ -4,7 +4,7 @@
 
 > A curated list of awesome online courses & tutorials on software testing, test automation and more...
 
-<details>
+<details open>
     <summary>Automation in Testing</summary>
 
 ## Automation in Testing - Free :free:
