@@ -5,6 +5,20 @@
 > A curated list of awesome online courses & tutorials on software testing, test automation and more...
 
 <details open>
+    <summary>Automation in Testing</summary>
+
+## Automation in Testing - Free :free:
+
+- [C Sharp Basics](https://automationintesting.com/csharp/course/)
+- [Java Basics](https://automationintesting.com/java/course/)
+- [Javascript Basics](https://automationintesting.com/node/course/)
+- [Programming Basics](https://automationintesting.com/programming/course/)
+- [RestAssured](https://automationintesting.com/restassured/course/)
+- [Selenium Java](https://automationintesting.com/selenium/java/course/)
+
+</details>
+
+<details open>
     <summary>Blazemeter University</summary>
 
 ## Blazemeter University - Free :free:
@@ -190,9 +204,44 @@
 - [Learning Jenkins, 2018](https://www.linkedin.com/learning/learning-jenkins/welcome)
 - [Jenkins Essential Training, 2018](https://www.linkedin.com/learning/jenkins-essential-training/from-code-to-production-with-jenkins)
 
-### XML & CSS 
+### XML & CSS
 - [XML Essential Training, 2018](https://www.linkedin.com/learning/xml-essential-training-2)
 - [CSS: Selectors, 2019](https://www.linkedin.com/learning/css-selectors-2)
+
+</details>
+
+<details open>
+    <summary>Ministry of Testing Dojo</summary>
+
+## The Dojo - Free :free: and Paid :moneybag:
+
+### .NET
+- [Coding For Non-Coders](https://www.ministryoftesting.com/dojo/courses/coding-for-non-coders-jim-holmes)
+
+### Linux
+- [Linux Commands for Beginners](https://www.ministryoftesting.com/dojo/courses/linux-commands-for-beginners-lim-sim)
+
+### Java
+- [Introduction to Java](https://www.ministryoftesting.com/dojo/courses/introduction-to-java-mike-talks)
+
+### JavaScript
+- [Introduction to JavaScript](https://www.ministryoftesting.com/dojo/courses/introduction-to-javascript-mark-winteringham)
+- [Let's Build an API Checking Framework](https://www.ministryoftesting.com/dojo/courses/let-s-build-an-api-checking-framework-mark-winteringham)
+
+### Mobile Testing
+- [Beginner's Guide To Mobile Testing](https://www.ministryoftesting.com/dojo/courses/beginner-s-guide-to-mobile-testing-daniel-knott)
+
+### Python
+- [Introduction to Python for Software Testers - Dave Westerveld](https://www.ministryoftesting.com/dojo/courses/introduction-to-python-for-software-testers-dave-westerveld)
+
+### Software Testing
+- [Essentials - Introduction to Software Development and Testing](https://www.ministryoftesting.com/dojo/courses/essentials-introduction-to-software-development-and-testing)
+- [Introduction To Modern Testing](https://www.ministryoftesting.com/dojo/courses/introduction-to-modern-testing-alan-page)
+- [Optimising Manual Test Scripts For An Agile Environment](https://www.ministryoftesting.com/dojo/courses/optimising-manual-test-scripts-for-an-agile-environment-matt-archer)
+
+### Web Testing
+- [Introduction To HTTP](https://www.ministryoftesting.com/dojo/courses/introduction-to-http)
+- [The Building Blocks of the Internet](https://www.ministryoftesting.com/dojo/courses/the-building-blocks-of-the-internet-mark-winteringham)
 
 </details>
 
@@ -344,7 +393,7 @@
 - [Java: BDD with Cucumber and Gherkin Getting Started](https://www.pluralsight.com/courses/java-bdd-cucumber-gherkin-getting-started)
 - [Test-driven Rails with RSpec, Capybara, and Cucumber](https://www.pluralsight.com/courses/test-driven-rails-rspec-capybara-cucumber)
 
-#### SpecFlow 
+#### SpecFlow
 - [Business Readable Automated Tests with SpecFlow 2.0](https://www.pluralsight.com/courses/specflow-2-0-business-readable-automated-tests)
 - [Automated Business Readable Web Tests with Selenium and SpecFlow](https://www.pluralsight.com/courses/selenium-specflow-automated-business-readable-web-tests)
 - [Automated Acceptance Testing with SpecFlow and Gherkin](https://www.pluralsight.com/courses/automated-acceptance-testing-specflow-gherkin)
