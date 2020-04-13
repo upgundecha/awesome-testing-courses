@@ -9,10 +9,10 @@
 
 ## Automation in Testing - Free :free:
 
-- [Programming Basics](https://automationintesting.com/programming/course/)
-- [Java Basics](https://automationintesting.com/java/course/)
 - [C Sharp Basics](https://automationintesting.com/csharp/course/)
+- [Java Basics](https://automationintesting.com/java/course/)
 - [Javascript Basics](https://automationintesting.com/node/course/)
+- [Programming Basics](https://automationintesting.com/programming/course/)
 - [RestAssured](https://automationintesting.com/restassured/course/)
 - [Selenium Java](https://automationintesting.com/selenium/java/course/)
 
@@ -215,33 +215,33 @@
 
 ## The Dojo - Free :free: and Paid :moneybag:
 
+### .NET
+- [Coding For Non-Coders](https://www.ministryoftesting.com/dojo/courses/coding-for-non-coders-jim-holmes)
+
+### Linux
+- [Linux Commands for Beginners](https://www.ministryoftesting.com/dojo/courses/linux-commands-for-beginners-lim-sim)
+
+### Java
+- [Introduction to Java](https://www.ministryoftesting.com/dojo/courses/introduction-to-java-mike-talks)
+
 ### JavaScript
 - [Introduction to JavaScript](https://www.ministryoftesting.com/dojo/courses/introduction-to-javascript-mark-winteringham)
 - [Let's Build an API Checking Framework](https://www.ministryoftesting.com/dojo/courses/let-s-build-an-api-checking-framework-mark-winteringham)
 
-### .NET
-- [Coding For Non-Coders](https://www.ministryoftesting.com/dojo/courses/coding-for-non-coders-jim-holmes)
+### Mobile Testing
+- [Beginner's Guide To Mobile Testing](https://www.ministryoftesting.com/dojo/courses/beginner-s-guide-to-mobile-testing-daniel-knott)
 
 ### Python
 - [Introduction to Python for Software Testers - Dave Westerveld](https://www.ministryoftesting.com/dojo/courses/introduction-to-python-for-software-testers-dave-westerveld)
-
-### Web Testing
-- [Introduction To HTTP](https://www.ministryoftesting.com/dojo/courses/introduction-to-http)
-- [The Building Blocks of the Internet](https://www.ministryoftesting.com/dojo/courses/the-building-blocks-of-the-internet-mark-winteringham)
 
 ### Software Testing
 - [Essentials - Introduction to Software Development and Testing](https://www.ministryoftesting.com/dojo/courses/essentials-introduction-to-software-development-and-testing)
 - [Introduction To Modern Testing](https://www.ministryoftesting.com/dojo/courses/introduction-to-modern-testing-alan-page)
 - [Optimising Manual Test Scripts For An Agile Environment](https://www.ministryoftesting.com/dojo/courses/optimising-manual-test-scripts-for-an-agile-environment-matt-archer)
 
-### Java
-- [Introduction to Java](https://www.ministryoftesting.com/dojo/courses/introduction-to-java-mike-talks)
-
-### Mobile Testing
-- [Beginner's Guide To Mobile Testing](https://www.ministryoftesting.com/dojo/courses/beginner-s-guide-to-mobile-testing-daniel-knott)
-
-### Linux
-- [Linux Commands for Beginners](https://www.ministryoftesting.com/dojo/courses/linux-commands-for-beginners-lim-sim)
+### Web Testing
+- [Introduction To HTTP](https://www.ministryoftesting.com/dojo/courses/introduction-to-http)
+- [The Building Blocks of the Internet](https://www.ministryoftesting.com/dojo/courses/the-building-blocks-of-the-internet-mark-winteringham)
 
 </details>
 
