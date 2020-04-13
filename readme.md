@@ -533,31 +533,12 @@
 
 ## Expertley - Become A Testing Expert with E-Learning (Paid) :moneybag:
 
-### Foundation Level Courses
-
-- [ASTQB Foundation Business Analyst](https://expertley.com/collections/e-learning/products/astqb-foundation-business-analyst-e-learning)
-- [API Automation Testing - Getting Started](https://expertley.com/collections/e-learning/products/api-automation-testing-getting-started)
-- [Agile Development Methods for Testers](https://expertley.com/collections/e-learning/products/agile-development-methods-for-testers)
-- [ISTQB Foundation Level Extension Agile Tester](https://expertley.com/collections/e-learning/products/istqb-foundation-level-extension-agile-tester-e-learning)
-- [ISTQB Foundation Level CTFL Training](https://expertley.com/collections/e-learning/products/istqb-test-engineering-foundation-level-e-learning-for-istqb-ctfl-training)
-
-### Advance Level Courses
-- [ISTQB Certified Tester Advanced Test Manager](https://expertley.com/collections/e-learning-certification-courses/products/istqb-certified-tester-advanced-test-manager-e-learning)
-- [ISTQB Certified Tester Advanced Test Analyst](https://expertley.com/collections/e-learning-certification-courses/products/istqb-certified-tester-advanced-test-analyst-e-learning)
-- [ISTQB Certified Tester Advanced Technical Test Analyst](https://expertley.com/collections/e-learning-certification-courses/products/istqb-certified-tester-advanced-technical-test-analyst-e-learning)
-
-### Certified Mobile Tester
-- [ASTQB Certified Mobile Tester](https://expertley.com/collections/certified-mobile-tester/products/astqb-certified-mobile-tester-e-learning)
-
 ### Non-Certification Courses
 - [Software Test Estimation E-Learning](https://expertley.com/collections/non-certification-courses/products/software-test-estimation-e-learning)
 - [Risk Based Testing E-Learning](https://expertley.com/collections/non-certification-courses/products/risk-based-testing-e-learning)
 - [Pragmatic Software Testing E-Learning](https://expertley.com/collections/non-certification-courses/products/pragmatic-software-testing-e-learning)
 - [Managing the Testing Process](https://expertley.com/collections/non-certification-courses/products/managing-the-testing-process-e-learning)
 - [Assessing Your Test Team](https://expertley.com/collections/non-certification-courses/products/assessing-your-test-team-e-learning)
-
-### Foundation Business Analyst
-- [ASTQB Foundation Business Analyst](https://expertley.com/collections/foundation-business-analyst/products/astqb-foundation-business-analyst-e-learning)
 
 ### Quick Self-Paced Courses
 - [Best Practices in Software Test Planning and Design](https://expertley.com/collections/quick-self-paced-classes/products/automation-programming-concepts)
