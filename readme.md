@@ -4,7 +4,7 @@
 
 > A curated list of awesome online courses & tutorials on software testing, test automation and more...
 
-<details open>
+<details>
     <summary>Automation in Testing</summary>
 
 ## Automation in Testing - Free :free:
@@ -487,7 +487,7 @@
 </details>
 
 <details open>
-    <summary>Applitools Test Automation University</summary>
+    <summary>Test Automation University from Applitools</summary>
 
 ## Test Automation University - Free :free:
 
