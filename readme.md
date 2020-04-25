@@ -539,7 +539,7 @@
 - [Selenium WebDriver with Ruby, 2019](https://testautomationu.applitools.com/selenium-webdriver-with-ruby/index.html)
 - [Introduction to Capybara, 2019](https://testautomationu.applitools.com/capybara-ruby/index.html)
 
-### Python
+#### Python
 - [Selenium WebDriver with Python](https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/index.html)
 
 #### Others
