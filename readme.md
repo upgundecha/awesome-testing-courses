@@ -4,24 +4,37 @@
 
 > A curated list of awesome online courses & tutorials on software testing, test automation and more...
 
-<details open>
-    <summary>Automation in Testing</summary>
+## Sites
 
-## Automation in Testing - Free :free:
+* [Automation in Testing](#automation-in-testing)
+* [Blazemeter University](#blazemeter-university)
+* [Codecademy](#codecademy)
+* [Cucumber School](#cucumber-school)
+* [edX](#edx)
+* [JetBrains Academy](#jetBrains-academy)
+* [LinkedIn Learning](#linkedin-learning)
+* [Ministry of Testing Dojo](#ministry-of-testing-dojo)
+* [Pluralsight](#pluralsight)
+* [Test Automation University from Applitools](#test-automation-university-from-applitools)
 
+---
+
+## Automation in Testing
+
+**Free access** :free:
+
+- [Programming Basics](https://automationintesting.com/programming/course/)
 - [C Sharp Basics](https://automationintesting.com/csharp/course/)
 - [Java Basics](https://automationintesting.com/java/course/)
 - [Javascript Basics](https://automationintesting.com/node/course/)
-- [Programming Basics](https://automationintesting.com/programming/course/)
 - [RestAssured](https://automationintesting.com/restassured/course/)
 - [Selenium Java](https://automationintesting.com/selenium/java/course/)
 
-</details>
+---
 
-<details open>
-    <summary>Blazemeter University</summary>
+## Blazemeter University
 
-## Blazemeter University - Free :free:
+**Free access** free:
 
 - [JMeter™ Intro](https://university.blazemeter.com/)
 - [JMeter™ Pro](https://university.blazemeter.com/)
@@ -30,33 +43,31 @@
 - [BlazeMeter Infrastructure Management](https://university.blazemeter.com/)
 - [Introduction to BlazeMeter Mock Services](https://university.blazemeter.com/)
 
-</details>
+---
 
-<details open>
-    <summary>Codecademy</summary>
+## Codecademy
 
-## Codecademy - Paid subscription :moneybag:
+**Paid subscription** :moneybag:
 
 ### Testing Courses
 - [Learn JavaScript Unit Testing](https://www.codecademy.com/learn/learn-javascript-unit-testing)
 - [Learn Testing for Web Development](https://www.codecademy.com/learn/learn-testing-for-web-development)
 
-</details>
+---
 
-<details open>
-    <summary>Cucumber School</summary>
+## Cucumber School
 
-## Cucumber School - Free :free:
+**Free access** :free:
 
 - [BDD with Cucumber (Java)](https://school.cucumber.io/courses/bdd-with-cucumber-java)
 - [BDD with Cucumber (JavaScript)](https://school.cucumber.io/courses/bdd-with-cucumber-javascript)
 - [BDD with Cucumber (Ruby)](https://school.cucumber.io/courses/bdd-with-cucumber-ruby)
-</details>
 
-<details open>
-    <summary>edX</summary>
+--- 
 
-## edX- Free to audit :free:, verified certificate :moneybag:
+## edX
+
+**Free to audit** :free:, **verified certificate** :moneybag:
 
 ### Software Testing Courses
 - [Methods and techniques to test and verify software, MicroMasters, 2020](https://www.edx.org/micromasters/usmx-umgc-software-testing-and-verification)
@@ -66,12 +77,11 @@
 - [Automated Software Testing: Model and State-based Testing](https://www.edx.org/course/automated-software-testing-model-and-state-based-2)
 - [Automated Software Testing: Unit Testing, Coverage Criteria and Design for Testability](https://www.edx.org/course/automated-software-testing-unit-testing-coverage-2)
 
-</details>
+---
 
-<details open>
-    <summary>JetBrains Academy</summary>
+## JetBrains Academy
 
-## JetBrains Academy - Free courses on programming :free:
+**Free courses on programming** :free:
 
 ### Java
 - [Java Track](https://hyperskill.org/onboarding/?track=java)
@@ -82,12 +92,11 @@
 ### Python
 - [Python Track](https://hyperskill.org/onboarding/?track=python)
 
-</details>
+---
 
-<details open>
-    <summary>LinkedIn Learning </summary>
+## LinkedIn Learning
 
-## LinkedIn Learning - Paid subscription :moneybag:
+**Paid subscription** :moneybag:
 
 ### Learning Paths
 - [Become a Software Tester](https://www.linkedin.com/learning/paths/become-a-software-tester)
@@ -208,12 +217,11 @@
 - [XML Essential Training, 2018](https://www.linkedin.com/learning/xml-essential-training-2)
 - [CSS: Selectors, 2019](https://www.linkedin.com/learning/css-selectors-2)
 
-</details>
+---
 
-<details open>
-    <summary>Ministry of Testing Dojo</summary>
+## Ministry of Testing Dojo
 
-## The Dojo - Free :free: and Paid :moneybag:
+**Free** :free: and **Paid** :moneybag:
 
 ### .NET
 - [Coding For Non-Coders](https://www.ministryoftesting.com/dojo/courses/coding-for-non-coders-jim-holmes)
@@ -243,12 +251,11 @@
 - [Introduction To HTTP](https://www.ministryoftesting.com/dojo/courses/introduction-to-http)
 - [The Building Blocks of the Internet](https://www.ministryoftesting.com/dojo/courses/the-building-blocks-of-the-internet-mark-winteringham)
 
-</details>
+---
 
-<details open>
-    <summary>Pluralsight</summary>
+## Pluralsight
 
-## Pluralsight - Paid Subscription :moneybag:
+**Paid Subscription** :moneybag:
 
 ### Software Testing & Test Automation
 - [Automated Testing: End to End, 2013](https://www.pluralsight.com/courses/automated-testing-end-to-end)
@@ -484,12 +491,11 @@
 - [JMeter: Getting Started](https://www.pluralsight.com/courses/jmeter-getting-started)
 - [Tracking Real World Web Performance](https://www.pluralsight.com/courses/web-performance-tracking)
 
-</details>
+---
 
-<details open>
-    <summary>Test Automation University from Applitools</summary>
+## Test Automation University from Applitools
 
-## Test Automation University - Free :free:
+**Free access** :free:
 
 ### Learning Paths
 
@@ -532,6 +538,9 @@
 #### Ruby
 - [Selenium WebDriver with Ruby, 2019](https://testautomationu.applitools.com/selenium-webdriver-with-ruby/index.html)
 - [Introduction to Capybara, 2019](https://testautomationu.applitools.com/capybara-ruby/index.html)
+
+### Python
+- [Selenium WebDriver with Python](https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/index.html)
 
 #### Others
 - [Codeless Test Automation with Selenium IDE, 2019](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/index.html)
