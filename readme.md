@@ -4,18 +4,18 @@
 
 > A curated list of awesome online courses & tutorials on software testing, test automation and more.
 
-## Sites
-
+## Contents
 * [Automation in Testing](#automation-in-testing)
 * [Blazemeter University](#blazemeter-university)
 * [Codecademy](#codecademy)
 * [Cucumber School](#cucumber-school)
 * [edX](#edx)
-* [JetBrains Academy](#jetBrains-academy)
+* [JetBrains Academy](#jetbrains-academy)
 * [LinkedIn Learning](#linkedin-learning)
 * [Ministry of Testing Dojo](#ministry-of-testing-dojo)
 * [Pluralsight](#pluralsight)
 * [Test Automation University from Applitools](#test-automation-university-from-applitools)
+* [Credits](#credits)
 
 ---
 
@@ -592,18 +592,15 @@
 * [AI for Element Selection: Erasing the Pain of Fragile Test Scripts, 2019](https://testautomationu.applitools.com/ai-for-element-selection-erasing-the-pain-of-fragile-test-scripts/index.html)
 * [Scaling Tests with Docker, 2019](https://testautomationu.applitools.com/scaling-tests-with-docker/index.html)
 
-</details>
+---
 
 ## Credits
-* Banner image used from [https://undraw.co/](https://undraw.co/)
+Banner image used from [https://undraw.co/](https://undraw.co/)
 
 ## Contribute
-
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-
 ## License
-
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, Unmesh Gundecha has waived all copyright and
