@@ -355,11 +355,16 @@
 - [Getting Started with Web API Test Automation in Java](https://www.pluralsight.com/courses/java-web-api-test-automation-getting-started)
 - [Postman Fundamentals](https://www.pluralsight.com/courses/postman-fundamentals)
 
+### Cypress
+- [Cypress: End-to-end JavaScript Testing](https://www.pluralsight.com/courses/cypress-end-to-end-javascript-testing)
+
+
 ### Mobile Testing
 
 ### Appium
 - [Getting Started with UI Testing and Appium](https://www.pluralsight.com/courses/getting-started-ui-testing-appium)
 - [Writing Maintainable UI Test Automation with Appium](https://www.pluralsight.com/courses/writing-maintainable-ui-test-automation-appium)
+- [Appium: The Big Picture](https://www.pluralsight.com/courses/appium-big-picture)
 
 #### Android
 - [Android Testing Fundamentals](https://www.pluralsight.com/courses/android-testing-fundamentals)
@@ -377,6 +382,7 @@
 ### React
 - [Testing React Applications with Jest](https://www.pluralsight.com/courses/testing-react-applications-jest)
 - [Test-driven Development Using React](https://www.pluralsight.com/courses/test-driven-development-react)
+- [Testing React Components](https://www.pluralsight.com/courses/testing-react-components)
 
 ### Angular
 - [Unit Testing in Angular](https://www.pluralsight.com/courses/unit-testing-angular)
@@ -452,6 +458,7 @@
 - [Penetration Testing: Setting the Scope and Rules of Engagement](https://www.pluralsight.com/courses/pentesting-setting-scope-engagement)
 - [Web Application Penetration Testing Fundamentals](https://www.pluralsight.com/courses/web-app-pentesting-fundamentals)
 - [Web Application Penetration Testing: Insecure Error Handling](https://www.pluralsight.com/courses/web-app-pentesting-insecure-error-handling)
+- [Web Application Penetration Testing with Burp Suite](https://www.pluralsight.com/courses/web-application-penetration-testing-with-burp-suite)
 
 ### Conference Talks
 - [Angular Denver '19: Quasi-human Angular Automated Testing with Cucumber](https://www.pluralsight.com/courses/angular-denver-2019-session-33)
@@ -561,6 +568,7 @@
 - [Modern Functional Test Automation Through Visual AI, 2019](https://testautomationu.applitools.com/modern-functional-testing/index.html)
 - [Automated Visual Testing in C#, 2019](https://testautomationu.applitools.com/automated-visual-testing-in-csharp/index.html)
 - [Automated Visual Testing with WebdriverIO, 2019](https://testautomationu.applitools.com/automated-visual-testing-javascript-webdriverio/index.html)
+- [Automated Visual Testing with Python](https://testautomationu.applitools.com/visual-testing-python/)
 
 ### Cypress
 - [Introduction to Cypress, 2019](https://testautomationu.applitools.com/cypress-tutorial/index.html)
