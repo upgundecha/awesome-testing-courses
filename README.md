@@ -1,4 +1,4 @@
-# Awesome Testing Courses & Tutorials [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Testing Courses & Tutorials [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![CI](https://github.com/upgundecha/awesome-testing-courses/workflows/CI/badge.svg) ![Check Markdown links](https://github.com/upgundecha/awesome-testing-courses/workflows/Check%20Markdown%20links/badge.svg) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ![Alt](banner.png "Banner")
 
