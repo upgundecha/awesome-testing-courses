@@ -1,10 +1,11 @@
 # Awesome Testing Courses & Tutorials [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![](banner.png)
+![Alt](banner.png "Banner")
 
 > A curated list of awesome online courses & tutorials on software testing, test automation and more.
 
 ## Contents
+
 * [Automation in Testing](#automation-in-testing)
 * [Blazemeter University](#blazemeter-university)
 * [Codecademy](#codecademy)
@@ -15,7 +16,6 @@
 * [Ministry of Testing Dojo](#ministry-of-testing-dojo)
 * [Pluralsight](#pluralsight)
 * [Test Automation University from Applitools](#test-automation-university-from-applitools)
-* [Credits](#credits)
 
 ---
 
@@ -50,6 +50,7 @@
 **Paid subscription** :moneybag:
 
 ### Testing Courses
+
 * [Learn JavaScript Unit Testing](https://www.codecademy.com/learn/learn-javascript-unit-testing)
 * [Learn Testing for Web Development](https://www.codecademy.com/learn/learn-testing-for-web-development)
 
@@ -70,6 +71,7 @@
 **Free to audit** :free:, **verified certificate** :moneybag:
 
 ### Software Testing Courses
+
 * [Methods and techniques to test and verify software, MicroMasters, 2020](https://www.edx.org/micromasters/usmx-umgc-software-testing-and-verification)
   * [Software Testing Fundamentals, 2020](https://www.edx.org/course/software-testing-fundamentals)
   * [Software Testing Management, 2020](https://www.edx.org/course/software-testing-management)
@@ -84,12 +86,15 @@
 **Free courses on programming** :free:
 
 ### Java
+
 * [Java Track](https://hyperskill.org/onboarding/?track=java)
 
 ### Kotlin
+
 * [Kotlin Track](https://hyperskill.org/onboarding/?track=kotlin)
 
 ### Python
+
 * [Python Track](https://hyperskill.org/onboarding/?track=python)
 
 ---
@@ -99,6 +104,7 @@
 **Paid subscription** :moneybag:
 
 ### Learning Paths
+
 * [Become a Software Tester](https://www.linkedin.com/learning/paths/become-a-software-tester)
 * [Become a Test Automation Engineer](https://www.linkedin.com/learning/paths/become-a-test-automation-engineer)
 * [Become an Ethical Hacker](https://www.linkedin.com/learning/paths/become-an-ethical-hacker)
@@ -125,6 +131,7 @@
 ### Web Testing
 
 #### Selenium
+
 * [Learning Selenium, 2018](https://www.linkedin.com/learning/learning-selenium)
 * [Selenium Essential Training, 2018](https://www.linkedin.com/learning/selenium-essential-training)
 * [Advanced Selenium: Support Classes, 2019](https://www.linkedin.com/learning/advanced-selenium-support-classes/the-best-kept-secret-in-webdriver)
@@ -132,16 +139,18 @@
 * [Advanced Selenium: Automation Frameworks, 2019](https://www.linkedin.com/learning/advanced-selenium-automation-frameworks)
 
 #### Robot Framework
+
 * [Robot Framework Test Automation: Level 1 (Selenium), 2018](https://www.linkedin.com/learning/robot-framework-test-automation-level-1-selenium/about-me)
 * [Robot Framework Test Automation: Level 2, 2018](https://www.linkedin.com/learning/robot-framework-test-automation-level-2)
 * [Robot Framework Test Automation: Jenkins CI and Git Version Control, 2018](https://www.linkedin.com/learning/robot-framework-test-automation-jenkins-ci-and-git-version-control/overview)
 * [Robot Framework Test Automation: Sauce Labs, 2018](https://www.linkedin.com/learning/robot-framework-test-automation-sauce-labs)
 
 #### Cypress
+
 * [End-to-End JavaScript Testing with Cypress.io, 2019](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io)
 
-
 ### Mobile Testing
+
 * [Software Testing: Planning Tests for Mobile, 2019](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile)
 * [Mobile Testing with Appium, 2019](https://www.linkedin.com/learning/mobile-testing-with-appium/what-can-you-do-with-appium)
 * [Advanced Appium, 2019](https://www.linkedin.com/learning/advanced-appium)
@@ -152,8 +161,8 @@
 * [Advanced Android Espresso Testing, 2018](https://www.linkedin.com/learning/advanced-android-espresso-testing/welcome)
 * [Effective Android Testing for Mobile Developers, 2017](https://www.linkedin.com/learning/effective-android-testing-for-mobile-developers)
 
-
 ### API Testing
+
 * [API Testing Foundations, 2018](https://www.linkedin.com/learning/api-testing-foundations)
 * [API Testing and Validation, 2017](https://www.linkedin.com/learning/api-testing-and-validation)
 * [API Test Automation with SoapUI, 2019](https://www.linkedin.com/learning/api-test-automation-with-soapui/learning-soapui-for-api-testing)
@@ -161,40 +170,49 @@
 * [Postman Essential Training, 2020](https://www.linkedin.com/learning/postman-essential-training)
 
 ### Performance Testing
+
 * [Performance Testing Foundations, 2019](https://www.linkedin.com/learning/performance-testing-foundations)
 * [JMeter: Performance and Load Testing, 2019](https://www.linkedin.com/learning/jmeter-performance-and-load-testing)
 
 ### Java
+
 * [Java: Testing with JUnit, 2016](https://www.linkedin.com/learning/java-testing-with-junit/welcome)
 * [Spring: Test-Driven Development with JUnit, 2017](https://www.linkedin.com/learning/spring-test-driven-development-with-junit/welcome)
 * [Practical Test-Driven Development for Java Programmers, 2018](https://www.linkedin.com/learning/practical-test-driven-development-for-java-programmers/welcome)
 * [Learning JUnit 5, 2018](https://www.linkedin.com/learning/learning-junit-5)
 
 ### .NET
+
 * [C# Test Driven Development, 2016](https://www.linkedin.com/learning/c-sharp-test-driven-development-2/welcome)
 
 ### Ruby
+
 * [Ruby: Testing with RSpec, 2015](https://www.linkedin.com/learning/ruby-testing-with-rspec/welcome)
 
 ### Python
+
 * [Unit Testing in Python, 2020](https://www.linkedin.com/learning/unit-testing-in-python)
 * [Python Automation and Testing, 2018](https://www.linkedin.com/learning/python-automation-and-testing/welcome)
 * [Unit Testing and Test Driven Development in Python, 2018](https://www.linkedin.com/learning/unit-testing-and-test-driven-development-in-python/welcome)
 
 ### JavaScript
+
 * [JavaScript: Test-Driven Development (ES6), 2019](https://www.linkedin.com/learning/javascript-test-driven-development-es6)
 * [Node.js: Testing and Code Quality, 2017](https://www.linkedin.com/learning/node-js-testing-and-code-quality)
 
 ### BDD
+
 * [Behavior-Driven Development, 2018](https://www.linkedin.com/learning/behavior-driven-development)
 * [Cucumber Essential Training, 2019](https://www.linkedin.com/learning/cucumber-essential-training)
 
 ### Others
+
 * [React: Testing and Debugging, 2017](https://www.linkedin.com/learning/react-testing-and-debugging)
 * [Angular Testing and Debugging, 2018](https://www.linkedin.com/learning/angular-testing-and-debugging)
 * [Test-Driven Infrastructure with Chef, 2018](https://www.linkedin.com/learning/test-driven-infrastructure-with-chef)
 
 ### Security Testing
+
 * [Security Testing Essential Training, 2019](https://www.linkedin.com/learning/security-testing-essential-training)
 * [Penetration Testing Essential Training, 2017](https://www.linkedin.com/learning/penetration-testing-essential-training)
 * [DevSecOps: Automated Security Testing, 2018](https://www.linkedin.com/learning/devsecops-automated-security-testing)
@@ -208,12 +226,14 @@
 * [Penetration Testing: Advanced Enumeration, 2018](https://www.linkedin.com/learning/penetration-testing-advanced-enumeration)
 
 ### Continuous Integration
+
 * [DevOps Foundations: Continuous Delivery/Continuous Integration, 2017](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration/welcome)
 * [Continuous Integration: Tools, 2020](https://www.linkedin.com/learning/continuous-integration-tools)
 * [Learning Jenkins, 2018](https://www.linkedin.com/learning/learning-jenkins/welcome)
 * [Jenkins Essential Training, 2018](https://www.linkedin.com/learning/jenkins-essential-training/from-code-to-production-with-jenkins)
 
 ### XML & CSS
+
 * [XML Essential Training, 2018](https://www.linkedin.com/learning/xml-essential-training-2)
 * [CSS: Selectors, 2019](https://www.linkedin.com/learning/css-selectors-2)
 
@@ -224,30 +244,38 @@
 **Free** :free: and **Paid** :moneybag:
 
 ### .NET
+
 * [Coding For Non-Coders](https://www.ministryoftesting.com/dojo/courses/coding-for-non-coders-jim-holmes)
 
 ### Linux
+
 * [Linux Commands for Beginners](https://www.ministryoftesting.com/dojo/courses/linux-commands-for-beginners-lim-sim)
 
 ### Java
+
 * [Introduction to Java](https://www.ministryoftesting.com/dojo/courses/introduction-to-java-mike-talks)
 
 ### JavaScript
+
 * [Introduction to JavaScript](https://www.ministryoftesting.com/dojo/courses/introduction-to-javascript-mark-winteringham)
 * [Let's Build an API Checking Framework](https://www.ministryoftesting.com/dojo/courses/let-s-build-an-api-checking-framework-mark-winteringham)
 
 ### Mobile Testing
+
 * [Beginner's Guide To Mobile Testing](https://www.ministryoftesting.com/dojo/courses/beginner-s-guide-to-mobile-testing-daniel-knott)
 
 ### Python
+
 * [Introduction to Python for Software Testers - Dave Westerveld](https://www.ministryoftesting.com/dojo/courses/introduction-to-python-for-software-testers-dave-westerveld)
 
 ### Software Testing
+
 * [Essentials - Introduction to Software Development and Testing](https://www.ministryoftesting.com/dojo/courses/essentials-introduction-to-software-development-and-testing)
 * [Introduction To Modern Testing](https://www.ministryoftesting.com/dojo/courses/introduction-to-modern-testing-alan-page)
 * [Optimising Manual Test Scripts For An Agile Environment](https://www.ministryoftesting.com/dojo/courses/optimising-manual-test-scripts-for-an-agile-environment-matt-archer)
 
 ### Web Testing
+
 * [Introduction To HTTP](https://www.ministryoftesting.com/dojo/courses/introduction-to-http)
 * [The Building Blocks of the Internet](https://www.ministryoftesting.com/dojo/courses/the-building-blocks-of-the-internet-mark-winteringham)
 
@@ -258,6 +286,7 @@
 **Paid Subscription** :moneybag:
 
 ### Software Testing & Test Automation
+
 * [Automated Testing: End to End, 2013](https://www.pluralsight.com/courses/automated-testing-end-to-end)
 * [Test First Development - Part 1, 2010](https://www.pluralsight.com/courses/test-first-development-1)
 * [Test First Development - Part 2, 2010](https://www.pluralsight.com/courses/test-first-development-2)
@@ -268,6 +297,7 @@
 * [Coding Dojo: Test Driven Development, 2013](https://www.pluralsight.com/courses/the-coding-dojo)
 
 ### Unit Testing
+
 * [Advanced Unit Testing](https://www.pluralsight.com/courses/advanced-unit-testing)
 * [Unit Testing in Scala](https://www.pluralsight.com/courses/unit-testing-scala)
 * [Patterns for Pragmatic Unit Testing](https://www.pluralsight.com/courses/pragmatic-unit-testing-patterns)
@@ -283,6 +313,7 @@
 * [Introduction to WireMock](https://www.pluralsight.com/courses/wiremock-introduction)
 
 ### Java
+
 * [Introduction to Testing in Java](https://www.pluralsight.com/courses/java-testing-introduction)
 * [Implementing a Test Pyramid Strategy in Java](https://www.pluralsight.com/courses/implementing-test-pyramid-strategy-java)
 * [Test-Driven Development Practices in Java](https://www.pluralsight.com/courses/test-driven-development-java)
@@ -299,6 +330,7 @@
 * [Introduction to Spring Cloud Contract](https://www.pluralsight.com/courses/spring-cloud-contract-introduction)
 
 ### .NET
+
 * [Testing Windows PowerShell with Pester](https://www.pluralsight.com/courses/powershell-testing-pester)
 * [Test Driven Development in C#](https://www.pluralsight.com/courses/csharp-test-driven-development)
 * [Testing .NET Code with xUnit.net 2](https://www.pluralsight.com/courses/xunitdotnet2-dotnet-code-testing)
@@ -319,20 +351,24 @@
 * [Mocking with Moq and NUnit](https://www.pluralsight.com/courses/nunit-moq-mocking)
 
 ### Python
+
 * [Unit Testing with Python](https://www.pluralsight.com/courses/unit-testing-python)
 * [Unit Testing with pytest](https://www.pluralsight.com/courses/big-data-ldn-session-99)
 * [Scraping Dynamic Web Pages with Python and Selenium](https://www.pluralsight.com/courses/scraping-dynamic-web-pages-python-selenium)
 * [Testing Django Applications](https://www.pluralsight.com/courses/testing-django-applications)
 
 ### Ruby
+
 * [Testing Ruby Applications with RSpec](https://www.pluralsight.com/courses/rspec-ruby-application-testing)
 
 ### JavaScript
+
 * [Testing JavaScript with Jasmine and TypeScript](https://www.pluralsight.com/courses/javascript-jasmine-typescript)
 * [Testing Clientside JavaScript](https://www.pluralsight.com/courses/testing-javascript)
 * [Seamless JavaScript Testing with Wallaby.js](https://www.pluralsight.com/courses/)
 
 ### Node.js
+
 * [Node.js Testing Strategies](https://www.pluralsight.com/courses/nodejs-testing-strategies)
 * [Unit Testing with Node.js](https://www.pluralsight.com/courses/unit-testing-nodejs)
 * [Acceptance Testing in Node.js](https://www.pluralsight.com/courses/nodejs-acceptance-testing)
@@ -340,33 +376,39 @@
 * [Mocking Node.js with Sinon](https://www.pluralsight.com/courses/mocking-nodejs-sinon)
 
 ### Go
+
 * [Creating Well-tested Applications in Go](https://www.pluralsight.com/courses/go-create-test-applications)
 
 ### Selenium
 
 #### Java
+
 * [Automated Web Testing with Selenium and WebDriver Using Java](https://www.pluralsight.com/courses/automated-web-testing-selenium-webdriver-java)
 * [Automated Tests in Java with Fluent Interface Using WebDriver Selenium](https://www.pluralsight.com/courses/automated-tests-java-fluent-interface-webdriver-selenium)
 
 #### .NET
+
 * [Creating Automated Browser Tests with Selenium in C#](https://www.pluralsight.com/courses/creating-automated-browser-tests-selenium-c-sharp)
 
 ### API Testing
+
 * [Getting Started with Web API Test Automation in Java](https://www.pluralsight.com/courses/java-web-api-test-automation-getting-started)
 * [Postman Fundamentals](https://www.pluralsight.com/courses/postman-fundamentals)
 
 ### Cypress
-* [Cypress: End-to-end JavaScript Testing](https://www.pluralsight.com/courses/cypress-end-to-end-javascript-testing)
 
+* [Cypress: End-to-end JavaScript Testing](https://www.pluralsight.com/courses/cypress-end-to-end-javascript-testing)
 
 ### Mobile Testing
 
 ### Appium
+
 * [Getting Started with UI Testing and Appium](https://www.pluralsight.com/courses/getting-started-ui-testing-appium)
 * [Writing Maintainable UI Test Automation with Appium](https://www.pluralsight.com/courses/writing-maintainable-ui-test-automation-appium)
 * [Appium: The Big Picture](https://www.pluralsight.com/courses/appium-big-picture)
 
 #### Android
+
 * [Android Testing Fundamentals](https://www.pluralsight.com/courses/android-testing-fundamentals)
 * [Working with Android Tools and Testing](https://www.pluralsight.com/courses/android-tools-testing)
 * [Android Apps with Kotlin: Tools and Testing](https://www.pluralsight.com/courses/android-apps-kotlin-tools-testing)
@@ -374,27 +416,32 @@
 * [Android UI Tests: Espresso Fundamentals](https://www.pluralsight.com/courses/android-ui-tests-espresso-fundamentals)
 
 #### iOS
+
 * [Testing Fundamentals in iOS](https://www.pluralsight.com/courses/testing-fundamentals-ios)
 * [iOS Unit Testing with XCTest](https://www.pluralsight.com/courses/ios-unit-testing-xctest)
 * [Advanced​ ​Unit​ ​Testing​ ​with​ ​Swift​ ​iOS​ ​Through​ ​Mocks​ ​and Stubs](https://www.pluralsight.com/courses/unit-testing-swift-ios-mocks-stubs)
 * [Swift iOS UI and Unit Testing](https://www.pluralsight.com/courses/swift-ios-ui-unit-testing)
 
 ### React
+
 * [Testing React Applications with Jest](https://www.pluralsight.com/courses/testing-react-applications-jest)
 * [Test-driven Development Using React](https://www.pluralsight.com/courses/test-driven-development-react)
 * [Testing React Components](https://www.pluralsight.com/courses/testing-react-components)
 
 ### Angular
+
 * [Unit Testing in Angular](https://www.pluralsight.com/courses/unit-testing-angular)
 * [Play by Play: Fundamentals of Angular Testing](https://www.pluralsight.com/courses/play-by-play-fundamentals-of-angular-testing)
 * [AngularJS Unit Testing in-depth, Using ngMock](https://www.pluralsight.com/courses/angularjs-ngmock-unit-testing)
 * [Introduction to Protractor](https://www.pluralsight.com/courses/protractor-introduction)
 
 ### UI/UX Testing
+
 * [UX User Testing](https://www.pluralsight.com/courses/ux-user-testing)
 * [Usability Testing Approaches for UX Design](https://www.pluralsight.com/courses/ux-usability-testing-approaches-2437)
 
 ### Database Testing
+
 * [Making the Case for Unit Testing Database Code](https://www.pluralsight.com/courses/unit-testing-database-code)
 * [Oracle PL/SQL Unit Testing with Oracle SQL Developer](https://www.pluralsight.com/courses/oracle-plsql-unit-testing)
 * [Unit Testing T-SQL Code with tSQLt](https://www.pluralsight.com/courses/unit-testing-t-sql-tsqlt)
@@ -402,11 +449,13 @@
 ### BDD
 
 #### Cucumber
+
 * [Java: BDD Fundamentals](https://www.pluralsight.com/courses/java-bdd-fundamentals)
 * [Java: BDD with Cucumber and Gherkin Getting Started](https://www.pluralsight.com/courses/java-bdd-cucumber-gherkin-getting-started)
 * [Test-driven Rails with RSpec, Capybara, and Cucumber](https://www.pluralsight.com/courses/test-driven-rails-rspec-capybara-cucumber)
 
 #### SpecFlow
+
 * [Business Readable Automated Tests with SpecFlow 2.0](https://www.pluralsight.com/courses/specflow-2-0-business-readable-automated-tests)
 * [Automated Business Readable Web Tests with Selenium and SpecFlow](https://www.pluralsight.com/courses/selenium-specflow-automated-business-readable-web-tests)
 * [Automated Acceptance Testing with SpecFlow and Gherkin](https://www.pluralsight.com/courses/automated-acceptance-testing-specflow-gherkin)
@@ -414,6 +463,7 @@
 * [SpecFlow Tips and Tricks](https://www.pluralsight.com/courses/specflow-tips-tricks)
 
 ### Microsoft Azure
+
 * [Microsoft Azure Developer: Designing a Test Strategy](https://www.pluralsight.com/courses/microsoft-azure-test-strategy-designing)
 * [Microsoft Azure Developer: Performing Unit Testing & Integration Testing](https://www.pluralsight.com/courses/microsoft-azure-unit-integration-testing-performing)
 * [Microsoft Azure Developer: Performing Automated End-to-end Testing](https://www.pluralsight.com/courses/microsoft-azure-end-to-end-automated-testing-performing)
@@ -422,9 +472,11 @@
 * [Application Testing with Azure DevOps and Visual Studio 2019](https://www.pluralsight.com/courses/azure-devops-application-testing-visual-studio)
 
 ### AWS
+
 * [Implementing and Testing Blue-Green Deployments on AWS](https://www.pluralsight.com/courses/implementing-testing-blue-green-deployments-aws)
 
 ### Others
+
 * [End-to-end Web Testing with TestCafe: Getting Started](https://www.pluralsight.com/courses/testcafe-end-to-end-web-testing-getting-started)
 * [Play by Play: Test-Driven PHP with Chris Hartjes](https://www.pluralsight.com/courses/play-by-play-chris-hartjes)
 * [Writing Testable Code](https://www.pluralsight.com/courses/writing-testable-code)
@@ -434,6 +486,7 @@
 * [Code Testability](https://www.pluralsight.com/courses/code-testability)
 
 ### Security Testing
+
 * [Penetration Testing: The Big Picture](https://www.pluralsight.com/courses/penetration-testing-big-picture)
 * [Penetration Testing in Action](https://www.pluralsight.com/courses/penetration-testing-action)
 * [Ethical Hacking: Penetration Testing](https://www.pluralsight.com/courses/ethical-hacking-penetration-testing)
@@ -461,6 +514,7 @@
 * [Web Application Penetration Testing with Burp Suite](https://www.pluralsight.com/courses/web-application-penetration-testing-with-burp-suite)
 
 ### Conference Talks
+
 * [Angular Denver '19: Quasi-human Angular Automated Testing with Cucumber](https://www.pluralsight.com/courses/angular-denver-2019-session-33)
 * [Angular Denver '19: More Unit Testing, Less Effort](https://www.pluralsight.com/courses/angular-denver-2019-session-44)
 * [Angular Denver '19: Supercharge Your Angular Tests with Jest (Snapshots Included)](https://www.pluralsight.com/courses/angular-denver-2019-session-03)
@@ -494,6 +548,7 @@
 * [UI Testing at Pinterest](https://www.pluralsight.com/courses/droidcon-sf-session-45)
 
 ### Performance Testing
+
 * [WebPageTest Deep Dive](https://www.pluralsight.com/courses/webpagetest-deep-dive)
 * [JMeter: Getting Started](https://www.pluralsight.com/courses/jmeter-getting-started)
 * [Tracking Real World Web Performance](https://www.pluralsight.com/courses/web-performance-tracking)
@@ -520,6 +575,7 @@
 * [Codeless Path](https://testautomationu.applitools.com/learningpaths.html?id=codeless-path)
 
 ### Test Automation
+
 * [Setting a Foundation for Successful Test Automation, 2019](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/index.html)
 * [Test Automation in DevOps, 2019](https://testautomationu.applitools.com/test-automation-in-devops/index.html)
 * [IntelliJ for Test Automation Engineers, 2020](https://testautomationu.applitools.com/intellij/index.html)
@@ -527,43 +583,53 @@
 * [The Whole Team Approach to Continuous Testing, 2019](https://testautomationu.applitools.com/the-whole-team-approach-to-continuous-testing/chapter5.html)
 
 ### API Testing
+
 * [Exploring Service APIs through Test Automation, 2019](https://testautomationu.applitools.com/exploring-service-apis-through-test-automation/chapter3.1.html)
 * [Automating your API tests with REST Assured, 2019](https://testautomationu.applitools.com/automating-your-api-tests-with-rest-assured/index.html)
 
 ### Selenium
 
 #### Java
+
 * [Selenium WebDriver with Java, 2019](https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/index.html)
 
 #### JavaScript
+
 * [UI Automation with WebdriverIO, 2019](https://testautomationu.applitools.com/webdriverio-tutorial/index.html)
 
 #### .NET
+
 * [Intro to Selenium WebDriver with .NET Core, 2019](https://testautomationu.applitools.com/intro-to-selenium-webdriver-with-net-core/index.html)
 * [From Scripting to Framework with Selenium and C#, 2019](https://testautomationu.applitools.com/test-automation-framework-csharp/index.html)
 
 #### Ruby
+
 * [Selenium WebDriver with Ruby, 2019](https://testautomationu.applitools.com/selenium-webdriver-with-ruby/index.html)
 * [Introduction to Capybara, 2019](https://testautomationu.applitools.com/capybara-ruby/index.html)
 
 #### Python
+
 * [Selenium WebDriver with Python](https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/index.html)
 
 #### Others
+
 * [Codeless Test Automation with Selenium IDE, 2019](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/index.html)
 * [Web Element Locator Strategies, 2019](https://testautomationu.applitools.com/web-element-locator-strategies/index.html)
 
 ### Appium
+
 * [Mobile Automation with Appium in JavaScript, 2020](https://testautomationu.applitools.com/appium-javascript-tutorial/index.html)
 * [Automated Visual Testing with Appium, 2019](https://testautomationu.applitools.com/appium-visual-testing/index.html)
 
 #### JavaScript
+
 * [Jest JavaScript Testing Framework, 2019](https://testautomationu.applitools.com/jest-testing-tutorial/index.html)
 * [Mocha JavaScript Test Framework, 2019](https://testautomationu.applitools.com/mocha-javascript-tests/index.html)
 * [Introduction to Chai Assertions, 2019](https://testautomationu.applitools.com/chai-test-assertions/index.html)
 * [Automating in the Browser Using JavaScript, 2019](https://testautomationu.applitools.com/automating-in-the-browser-using-javascript/index.html)
 
 ### Visual Testing
+
 * [Automated Visual Testing: A Fast Path To Test Automation Success, 2019](https://testautomationu.applitools.com/automated-visual-testing-a-fast-path-to-test-automation-success/index.html)
 * [Modern Functional Test Automation Through Visual AI, 2019](https://testautomationu.applitools.com/modern-functional-testing/index.html)
 * [Automated Visual Testing in C#, 2019](https://testautomationu.applitools.com/automated-visual-testing-in-csharp/index.html)
@@ -571,22 +637,26 @@
 * [Automated Visual Testing with Python](https://testautomationu.applitools.com/visual-testing-python/)
 
 ### Cypress
+
 * [Introduction to Cypress, 2019](https://testautomationu.applitools.com/cypress-tutorial/index.html)
 
 ### Performance Testing
+
 * [Tools and Techniques for Performance and Load Testing, 2019](https://testautomationu.applitools.com/performance-and-load-testing/index.html)
 
 ### Programming Languages
+
 * [Python Programming, 2020](https://testautomationu.applitools.com/python-tutorial/index.html)
 * [Java Programming, 2019](https://testautomationu.applitools.com/java-programming-course/index.html)
 
 ### BDD
+
 * [Cucumber with Java, 2020](https://testautomationu.applitools.com/cucumber-java-tutorial/index.html)
 * [Cucumber with JavaScript, 2020](https://testautomationu.applitools.com/cucumber-javascript-tutorial/index.html)
 * [Behavior Driven Python with pytest-bdd, 2019](https://testautomationu.applitools.com/behavior-driven-python-with-pytest-bdd/index.html)
 
-
 ### Others
+
 * [Introduction to iOS Test Automation with XCUITest, 2019](https://testautomationu.applitools.com/introduction-to-ios-test-automation-with-xcuitest/index.html)
 * [Introduction to TestNG, 2019](https://testautomationu.applitools.com/introduction-to-testng/index.html)
 * [AI for Element Selection: Erasing the Pain of Fragile Test Scripts, 2019](https://testautomationu.applitools.com/ai-for-element-selection-erasing-the-pain-of-fragile-test-scripts/index.html)
@@ -595,12 +665,15 @@
 ---
 
 ## Credits
+
 Banner image used from [https://undraw.co/](https://undraw.co/)
 
 ## Contribute
+
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## License
+
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, Unmesh Gundecha has waived all copyright and
