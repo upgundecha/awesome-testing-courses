@@ -121,6 +121,8 @@
 * [Nail Your Software Tester Interview, 2020](https://www.linkedin.com/learning/nail-your-software-tester-interview)
 * [Programming Foundations: Test-Driven Development, 2019](https://www.linkedin.com/learning/programming-foundations-test-driven-development-2)
 * [UX Foundations: Usability Testing, 2015](https://www.linkedin.com/learning/ux-foundations-usability-testing)
+* _New!_ [Software Testing Foundations: Bug Writing and Management. 2020](https://www.linkedin.com/learning/software-testing-foundations-bug-writing-and-management)
+* _New!_ [Software Testing Foundations: Testing throughout the SDLC, 2020](https://www.linkedin.com/learning/software-testing-foundations-testing-throughout-the-sdlc)
 
 ### Test Automation
 
@@ -137,6 +139,7 @@
 * [Advanced Selenium: Support Classes, 2019](https://www.linkedin.com/learning/advanced-selenium-support-classes/the-best-kept-secret-in-webdriver)
 * [Advanced Selenium: 3 Synchronization Strategies, 2020](https://www.linkedin.com/learning/advanced-selenium-3-synchronization-strategies)
 * [Advanced Selenium: Automation Frameworks, 2019](https://www.linkedin.com/learning/advanced-selenium-automation-frameworks)
+* _New!_ [Advanced Selenium: Page Objects and GUI Automation, 2020](https://www.linkedin.com/learning/advanced-selenium-page-objects-and-gui-automation)
 
 #### Robot Framework
 
@@ -173,6 +176,7 @@
 
 * [Performance Testing Foundations, 2019](https://www.linkedin.com/learning/performance-testing-foundations)
 * [JMeter: Performance and Load Testing, 2019](https://www.linkedin.com/learning/jmeter-performance-and-load-testing)
+* _New!_ [Advanced JMeter, 2020](https://www.linkedin.com/learning/advanced-jmeter)
 
 ### Java
 
@@ -328,6 +332,7 @@
 * [TDD with Spring and JUnit 5](https://www.pluralsight.com/courses/tdd-spring-junit5)
 * [Effective Automated Testing with Spring](https://www.pluralsight.com/courses/effective-testing-with-spring)
 * [Introduction to Spring Cloud Contract](https://www.pluralsight.com/courses/spring-cloud-contract-introduction)
+* _New!_ [Migrating from the JUnit 4 to the JUnit 5 Testing Platform](https://app.pluralsight.com/library/courses/migrating-junit4-junit5-testing-platform/table-of-contents)
 
 ### .NET
 
@@ -406,6 +411,7 @@
 * [Getting Started with UI Testing and Appium](https://www.pluralsight.com/courses/getting-started-ui-testing-appium)
 * [Writing Maintainable UI Test Automation with Appium](https://www.pluralsight.com/courses/writing-maintainable-ui-test-automation-appium)
 * [Appium: The Big Picture](https://www.pluralsight.com/courses/appium-big-picture)
+* _New!_ [Integrating Appium into a DevOps Pipeline, 2020](https://app.pluralsight.com/library/courses/integrating-appium-devops-pipeline/table-of-contents)
 
 #### Android
 
@@ -512,7 +518,8 @@
 * [Web Application Penetration Testing Fundamentals](https://www.pluralsight.com/courses/web-app-pentesting-fundamentals)
 * [Web Application Penetration Testing: Insecure Error Handling](https://www.pluralsight.com/courses/web-app-pentesting-insecure-error-handling)
 * [Web Application Penetration Testing with Burp Suite](https://www.pluralsight.com/courses/web-application-penetration-testing-with-burp-suite)
-
+* _New!_ [Web Application Penetration Testing: Client-side Testing, 2020](https://app.pluralsight.com/library/courses/web-app-pentesting-client-side-testing/table-of-contents)
+* _New!_ [Performing DevSecOps Automated Security Testing, 2020](https://app.pluralsight.com/library/courses/performing-devsecops-automated-security-testing/table-of-contents)
 ### Conference Talks
 
 * [Angular Denver '19: Quasi-human Angular Automated Testing with Cucumber](https://www.pluralsight.com/courses/angular-denver-2019-session-33)
@@ -661,12 +668,12 @@
 * [Introduction to TestNG, 2019](https://testautomationu.applitools.com/introduction-to-testng/index.html)
 * [AI for Element Selection: Erasing the Pain of Fragile Test Scripts, 2019](https://testautomationu.applitools.com/ai-for-element-selection-erasing-the-pain-of-fragile-test-scripts/index.html)
 * [Scaling Tests with Docker, 2019](https://testautomationu.applitools.com/scaling-tests-with-docker/index.html)
+* _New!_ [Contract Tests with Pact, 2020](https://testautomationu.applitools.com/pact-contract-tests/)
+* _New!_ [Source Control for Test Automation with Git, 2020](https://testautomationu.applitools.com/git-tutorial/)
+* _New!_ [Robot Framework, 2020](https://testautomationu.applitools.com/robot-framework-tutorial/)
+* _New!_ [Introduction to NUnit, 2020](https://testautomationu.applitools.com/nunit-tutorial/)
 
 ---
-
-## Credits
-
-Banner image used from [https://undraw.co/](https://undraw.co/)
 
 ## Contribute
 
