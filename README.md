@@ -5,7 +5,6 @@
 > A curated list of awesome online courses & tutorials on software testing, test automation and more.
 
 ## Contents
-
 * [Automation in Testing](#automation-in-testing)
 * [Blazemeter University](#blazemeter-university)
 * [Codecademy](#codecademy)
@@ -14,15 +13,14 @@
 * [JetBrains Academy](#jetbrains-academy)
 * [LinkedIn Learning](#linkedin-learning)
 * [Ministry of Testing Dojo](#ministry-of-testing-dojo)
+* [Oracle University](#oracle-university)
 * [Pluralsight](#pluralsight)
 * [Test Automation University from Applitools](#test-automation-university-from-applitools)
 
 ---
 
 ## Automation in Testing
-
 **Free access** :free:
-
 * [Programming Basics](https://automationintesting.com/programming/course/)
 * [C Sharp Basics](https://automationintesting.com/csharp/course/)
 * [Java Basics](https://automationintesting.com/java/course/)
@@ -282,6 +280,14 @@
 
 * [Introduction To HTTP](https://www.ministryoftesting.com/dojo/courses/introduction-to-http)
 * [The Building Blocks of the Internet](https://www.ministryoftesting.com/dojo/courses/the-building-blocks-of-the-internet-mark-winteringham)
+
+---
+
+## Oracle University
+
+**Free courses on Java** :free:
+
+* [Java Explorer](https://learn.oracle.com/ols/learning-path/java-explorer/40805/79726) _New!_
 
 ---
 
